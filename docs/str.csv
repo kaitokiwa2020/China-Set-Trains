@@ -1,4 +1,4 @@
-# STRING,ENGLISH,SIMPLIFIED CHINESE
+﻿# STRING,ENGLISH,SIMPLIFIED CHINESE
 STR_GRF_NAME,China Set: Trains {VERSION_STRING},中国包：火车 {VERSION_STRING}
 STR_GRF_DESC,The Train sector of the China Set of OpenTTD.,OpenTTD中国包的火车部分。
 STR_GRF_URL,https://www.tt-forums.net/viewtopic.php?t=91092,
@@ -214,6 +214,9 @@ STR_NAME_DF11,DF11 (Diesel),DF11 (内燃)
 STR_NAME_DF11PLATEAU,DF11 (Diesel) (Pateau Type),DF11 (内燃) (高原型)
 STR_NAME_DF11G,DF11G (Diesel),DF11G (内燃)
 STR_NAME_DF11Z,DF11Z (Diesel),DF11Z (内燃)
+STR_NAME_NY1,"NY1 ""Weixing"" (Diesel)","NY1 ""卫星""型 (内燃)"
+STR_NAME_DFH1_EARLY,DFH1 (Diesel)  (Early Version),DFH1 (内燃) (早期型)
+STR_NAME_DFH1_LATE,DFH1 (Diesel)  (Late Version),DFH1 (内燃) (晚期型)
 STR_NAME_DFH3,DFH3 (Diesel),DFH3 (内燃)
 STR_NAME_DFH7,DFH7 (Diesel Shunter),DFH7 (内燃) (调车用)
 STR_NAME_BEIJING_PASSENGER,Beijing (Diesel) (Passenger Type),北京 (内燃)  (客运型)
@@ -468,6 +471,8 @@ STR_FULL_NAME_DF11,{BLACK}FULLNAME: {GOLD}Dongfeng 11 Diesel Locomotive,{BLACK}�
 STR_FULL_NAME_DF11PLATEAU,{BLACK}FULLNAME: {GOLD}Dongfeng 11 Plateau Type Diesel Locomotive,{BLACK}全称：{GOLD}东风11高原型内燃机车
 STR_FULL_NAME_DF11G,{BLACK}FULLNAME: {BLUE}Dongfeng 11G {WHITE}Diesel Locomotive,{BLACK}全称：{BLUE}东风11G型{WHITE}内燃机车
 STR_FULL_NAME_DF11Z,{BLACK}FULLNAME: {GOLD}Dongfeng 11Z Diesel Locomotive,{BLACK}全称：{GOLD}东风11Z型内燃机车
+STR_FULL_NAME_NY1,"{BLACK}FULLNAME: {GOLD}Neiye1 ""Weixing"" Diesel Locomotive",{BLACK}全称：{GOLD}内液1“卫星”型内燃机车
+STR_FULL_NAME_DFH1,{BLACK}FULLNAME: {GOLD}Dongfanghong 1 Diesel Locomotive,{BLACK}全称：{GOLD}东方红1型内燃机车
 STR_FULL_NAME_DFH3,"{BLACK}FULLNAME: {GOLD}Dongfanghong 3 Diesel Locomotive{}{BLACK}Livery Availability: Ordinary {BLUE}Blue {BLACK}Livery, {RED}Red {BLACK}Livery, {BROWN}""Gongqingtuan"" {BLACK}Livery ,Liaodong Peninsula Livery",{BLACK}全称：{GOLD}东方红3型内燃机车{}{BLACK}可选择的涂装：原始蓝色涂装，红色涂装，共青团号涂装，辽东半岛号涂装
 STR_FULL_NAME_DFH7,{BLACK}FULLNAME: {GOLD}Dongfanghong 7 Diesel Locomotive,{BLACK}全称：{GOLD}东方红7型内燃机车
 STR_FULL_NAME_BEIJING_PASSENGER,{BLACK}FULLNAME: {GOLD}Passenger Type Beijing Diesel Locomotive,{BLACK}全称：{GOLD}北京客运型内燃机车
@@ -519,6 +524,7 @@ STR_DF5_SERIES,DF5 Series (Diesel Locomotive),DF5系列 (内燃机车)
 STR_DF7D_SERIES,DF7D Series (Diesel Locomotive),DF7D系列 (内燃机车)
 STR_DF7G_SERIES,DF7G Series (Diesel Locomotive),DF7G系列 (内燃机车)
 STR_DF11_SERIES,DF11 Series (Diesel Locomotive),DF11系列 (内燃机车)
+STR_DFH1_SERIES,DFH11 Series (Diesel Locomotive),DFH11系列 (内燃机车)
 STR_BEIJING_SERIES,Beijing Series (Diesel Locomotive),北京系列 (内燃机车)
 STR_SS4_SERIES,SS4 Series (Electric Locomotive),SS4系列 (电力机车)
 STR_SS6_SERIES,SS6 Series (Electric Locomotive),SS6系列 (电力机车)
@@ -612,7 +618,6 @@ STR_RW25B_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Ordinary {GREEN
 STR_XL25B_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Ordinary {GREEN}Green {GOLD}Livery, {RED}Red {GOLD}and {WHITE}White {GOLD}Livery, {DKGREEN}""Gaozu Green"" {GOLD}Livery (unfinished)",{BLACK}可供选择的涂装：{GREEN}绿皮车{GOLD}涂装，{RED}红{WHITE}白{GOLD}相间涂装，{DKGREEN}“高阻绿”{GOLD}涂装 (未完成)
 STR_YZ_YW25T_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: Original {BLUE} Blue{WHITE} White {GOLD}Livery (Only Made in China), {DKGREEN}""Gaozu Lv"" Green Livery (Only Made in China),  Qinghai-Tibet Railway Grenn Livery (Both have Made in China and Made by BSP)","{BLACK}可供选择的涂装：{BLUE}蓝{WHITE}白 {GOLD}相间涂装 (仅国产)，{DKGREEN}青藏铁路涂装 (国产和BSP版本)，""高祖绿""涂装 (仅国产)，{WHITE}广九直通车涂装 {DKGREEN}(及其刷绿版本)"
 STR_RZ25T_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: Original {BLUE} Blue{WHITE} White {GOLD}Livery (Both have Made in China and Made by BSP), {DKGREEN}""Gaozu Lv"" Green Livery (Also Both have Made in China and Made by BSP),  Qinghai-Tibet Railway Grenn Livery (Only Made in China),{WHITE} Guangzhou-Kowloon Railway Livery {DKGREEN}(And its ""Gaozu Lv"" Green version)","{BLACK}可供选择的涂装：{BLUE}蓝{WHITE}白 {GOLD}相间涂装 (国产和BSP版本)，{DKGREEN}青藏铁路涂装 (仅国产)，""高祖绿""涂装 (国产和BSP版本)，{WHITE}广九直通车涂装 {DKGREEN}(及其刷绿版本)"
-STR_PANGANG,{YELLOW} - PANGANG Livery,{YELLOW} - 攀钢号涂装
 STR_RW25T_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: Original {BLUE} Blue{WHITE} White {GOLD}Livery (Both have Made in China and Made by BSP), {DKGREEN}""Gaozu Lv"" Green Livery (Also Both have Made in China and Made by BSP),  Qinghai-Tibet Railway Grenn Livery (Also Both have Made in China and Made by BSP)","{BLACK}可供选择的涂装：{BLUE}蓝{WHITE}白 {GOLD}相间涂装 (国产和BSP版本)，{DKGREEN}青藏铁路涂装 (国产和BSP版本)，""高祖绿""涂装 (国产和BSP版本)"
 STR_CA25T_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: Original {BLUE} Blue{WHITE} White {GOLD}Livery (Both have Made in China and Made by BSP), {DKGREEN}""Gaozu Lv"" Green Livery (Also Both have Made in China and Made by BSP),  Qinghai-Tibet Railway Grenn Livery (Also Both have Made in China and Made by BSP),{WHITE} Guangzhou-Kowloon Railway Livery {DKGREEN}(And its ""Gaozu Lv"" Green version)","{BLACK}可供选择的涂装：{BLUE}蓝{WHITE}白 {GOLD}相间涂装 (国产和BSP版本)，{DKGREEN}青藏铁路涂装 (国产和BSP版本)，""高祖绿""涂装，{WHITE}广九直通车涂装 {DKGREEN}(及其刷绿版本)"
 STR_XL25T_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: Original {BLUE}Blue {GOLD}and {WHITE}White {GOLD}Livery (Both have Made in China and Made by BSP) , {DKGREEN}""Gaozu Lv""  Green Livery  (Also Both have Made in China and Made by BSP),  Qinghai-Tibet Railway Livery  (Only Made in China)","{BLACK}可供选择的涂装：{BLUE}蓝{WHITE}白 {GOLD}相间涂装 (国产和BSP版本)，{DKGREEN}青藏铁路涂装 (仅国产)，""高祖绿""涂装 (国产和BSP版本)"
@@ -873,6 +878,7 @@ STR_LONGQINGXIA,"{BLACK} - ""Longqingxia"" Livery",{BLACK} - 龙庆峡号涂装
 STR_BEIJING2SHANGHAIALT,{BLACK} - Beijing-Shanghai Express Train Livery {BLUE}Blue-{WHITE}-White,{BLACK} - 北京至上海21/22次直快涂装
 STR_93_94,{BLACK} - Dalian-Changchun No.93/94 Train Livery,{BLACK} - 大连至长春93/94次列车涂装
 STR_RESCUE,{BLACK} - Wrecker Livery,{BLACK} - 救援涂装
+STR_PANGANG,{YELLOW} - PANGANG Livery,{YELLOW} - 攀钢号涂装
 STR_JINGTONG,{BLACK} - Beijing-Tongzhou Livery,{BLACK} - 京通号涂装
 STR_CHANGZHUTAN,{BLACK} - ChangSha-ZhuZhou-XiangTan Livery,{BLACK} - 长株潭涂装
 STR_TIANFU,{BLACK} - Tianfu (Chengdu) Livery,{BLACK} - 成都天府号涂装

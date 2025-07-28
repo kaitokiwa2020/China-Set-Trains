@@ -266,6 +266,9 @@ item (FEAT_TRAINS, df11plateau, 5157) {}
 item (FEAT_TRAINS, df7d, 5158) {}
 item (FEAT_TRAINS, df7d3000, 5159) {}
 item (FEAT_TRAINS, df9, 5160) {}
+item (FEAT_TRAINS, ny1, 5161) {}
+item (FEAT_TRAINS, dfh1_early, 5162) {}
+item (FEAT_TRAINS, dfh1_late, 5163) {}
 
 //25kV AC Electric, available ID range: 6144-7167 (hex 0x1800..0x1BFF)
 #define id_range_25_electric 0x1800..0x1BFF
