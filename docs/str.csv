@@ -230,6 +230,8 @@ STR_NAME_HXN3,HXN3 (Diesel),HXN3 (内燃)
 STR_NAME_HXN3QZ,HXN3 (Diesel) (Plateau Type),HXN3 (内燃) (高原型)
 STR_NAME_HXN5,HXN5 (Diesel),HXN5 (内燃)
 STR_NAME_HXN5B,HXN5B (Diesel),HXN5B (内燃)
+STR_NAME_FXN3C,FXN3C (Diesel),FXN3C (内燃)
+STR_NAME_FXN4C,FXN4C (Diesel),FXN5C (内燃)
 STR_NAME_SS1,SS1 (Electric),SS1 (电力)
 STR_NAME_SS3,SS3 (Electric),SS3 (电力)
 STR_NAME_SS3B,SS3B (Electric),SS3B (电力)
@@ -485,6 +487,8 @@ STR_FULL_NAME_ND5,{BLACK}FULLNAME: {GOLD}Neidian 5 Diesel Locomotive,{BLACK}全�
 STR_FULL_NAME_HXN3,{BLACK}FULLNAME: {GOLD}Hexie 3 Diesel Locomotive,{BLACK}全称：{GOLD}和谐内3型内燃机车
 STR_FULL_NAME_HXN5,{BLACK}FULLNAME: {GOLD}Hexie 5 Diesel Locomotive,{BLACK}全称：{GOLD}和谐内5型内燃机车
 STR_FULL_NAME_HXN5B,{BLACK}FULLNAME: {GOLD}Hexie 5B Diesel Locomotive,{BLACK}全称：{GOLD}和谐内5B型内燃机车
+STR_FULL_NAME_FXN3C,{BLACK}FULLNAME: {GOLD}Fuxing 3C Diesel Locomotive,{BLACK}全称：{GOLD}复兴内3C型内燃机车
+STR_FULL_NAME_FXN5C,{BLACK}FULLNAME: {GOLD}Fuxing 5C Diesel Locomotive,{BLACK}全称：{GOLD}复兴内5C型内燃机车
 STR_FULL_NAME_SS1,{BLACK}FULLNAME: {GOLD}Shaoshan 1 Electric Locomotive,{BLACK}全称：{GOLD}韶山1型电力机车
 STR_FULL_NAME_SS3,"{BLACK}FULLNAME: {GOLD}Shaoshan 3 Electric Locomotive{}{BLACK}Livery Availability: Ordinary {BLACK}Livery, {DKGREEN}Grassgreen {BLACK}Livery, {BLUE}Blue {BLACK}Livery, {RED}Red {BLACK}Livery and Fuzhou Livery",{BLACK}全称：{GOLD}韶山3型电力机车{}{BLACK}可替换的涂装：原始涂装，红色涂装，蓝色涂装，草绿色涂装，福州机务段涂装
 STR_FULL_NAME_SS3B,{BLACK}FULLNAME: {GOLD}Shaoshan 3B Electric Locomotive,{BLACK}全称：{GOLD}韶山3B型电力机车
@@ -526,7 +530,7 @@ STR_DF5_SERIES,DF5 Series (Diesel Locomotive),DF5系列 (内燃机车)
 STR_DF7D_SERIES,DF7D Series (Diesel Locomotive),DF7D系列 (内燃机车)
 STR_DF7G_SERIES,DF7G Series (Diesel Locomotive),DF7G系列 (内燃机车)
 STR_DF11_SERIES,DF11 Series (Diesel Locomotive),DF11系列 (内燃机车)
-STR_DFH1_SERIES,DFH11 Series (Diesel Locomotive),DFH11系列 (内燃机车)
+STR_DFH1_SERIES,DFH1 Series (Diesel Locomotive),DFH1系列 (内燃机车)
 STR_BEIJING_SERIES,Beijing Series (Diesel Locomotive),北京系列 (内燃机车)
 STR_SS4_SERIES,SS4 Series (Electric Locomotive),SS4系列 (电力机车)
 STR_SS6_SERIES,SS6 Series (Electric Locomotive),SS6系列 (电力机车)
@@ -538,6 +542,8 @@ STR_HXD3_SERIES,HXD3 Series (Electric Locomotive),HXD3系列 (电力机车)
 STR_HXN3_SERIES,HXN3 Series (Diesel Locomotive),HXN3系列 (内燃机车)
 STR_HXN5_SERIES,HXN5 Series (Diesel Locomotive),HXN5系列 (内燃机车)
 STR_FXD1_SERIES,FXD1 Series (Electric Locomotive),FXD1系列 (电力机车)
+STR_FXN3_SERIES,FXN3 Series (Diesel Locomotive),FXN3系列 (内燃机车)
+STR_FXN5_SERIES,FXN5 Series (Diesel Locomotive),FXN5系列 (内燃机车)
 STR_NZJ2_SERIES,NZJ2 Series (DMU),NZJ2系列 (内燃动车组)
 STR_CRH1_SERIES,CRH1 Series (EMU),CRH1系列 (电力动车组)
 STR_CRH2_SERIES,CRH2 Series (EMU),CRH2系列 (电力动车组)
@@ -772,7 +778,7 @@ STR_LV_PRE_DETERIORATE,{BLACK} - Deteriorated,{BLACK} - 老化后
 STR_ORIGINAL,{BLACK} - Original Livery,{BLACK} - 原版涂装
 STR_ALTERNATIVE,{BLACK} - Alternative Original Livery,{BLACK} - 另一种原版涂装
 STR_REVERSE,{BLACK} └ the Reverse of the Livery Above,{BLACK} └ 翻转的涂装
-STR_PROTOTYPE,{BLACK} - Prototype,{BLACK} - 原型
+STR_PROTOTYPE,{BLACK} - Prototype,{BLACK} - 原型车
 STR_LATER,{BLACK} - Later Livery,{BLACK} - 后期涂装
 STR_EARLIER,{BLACK} - Earlier Livery,{BLACK} - 早期涂装
 STR_FACTORY,{BLACK} - Factory Livery,{BLACK} - 出厂涂装
@@ -913,6 +919,7 @@ STR_HXD3D1893,"{BLACK}{RED} - HXD3D-1893 {GOLD}""Mao Zedong""","{BLACK}{RED} - H
 STR_HXD1D1898,"{BLACK}{RED} - HXD1D-1893 {GOLD}""Zhou Enlai""","{BLACK}{RED} - HXD1D-1898 {GOLD}""周恩来号"""
 STR_HXD3D1886,"{BLACK}{RED} - HXD3D-1886 {GOLD}""Zhu De""","{BLACK}{RED} - HXD3D-1886 {GOLD}""朱德号"""
 STR_HXD3D1921,"{BLACK}{RED} - HXD3D-1921 {GOLD}""Communist""","{BLACK}{RED} - HXD3D-1921 ""共产党员号"""
+STR_FXN3C0001,"{BLACK}{RED} - FXN3C-0001 {GOLD}"" Communist Youth League Member""","{BLACK}{RED} - FXN3C-0001 ""共青团员号"""
 STR_OG,{ORANGE} - Gray Door Orange Livery,{ORANGE} - 灰色门橘色涂装
 STR_OO,{ORANGE} - Orange Door Orange Livery,{ORANGE} - 橘色门橘色涂装
 STR_WHITEURUMQI,{ORANGE} - Urumqi Bureau White Low Door Livery,{ORANGE} - 乌鲁木齐局白色低开门涂装

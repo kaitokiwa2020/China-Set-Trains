@@ -248,6 +248,7 @@
 #include "src/diesel/ny1.pnml"
 #include "src/diesel/dfh1_early.pnml"
 #include "src/diesel/dfh1_late.pnml"
+#include "src/diesel/fxn3c.pnml"
 
 // 25kV AC Electric
 #include "src/25-electric/ss1.pnml"
