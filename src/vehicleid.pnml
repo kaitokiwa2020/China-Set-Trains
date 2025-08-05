@@ -217,6 +217,7 @@ item (FEAT_TRAINS, g70a, 3117) {}
 item (FEAT_TRAINS, sy, 4096) {}
 item (FEAT_TRAINS, jf1, 4097) {}
 item (FEAT_TRAINS, sl6, 4098) {}
+item (FEAT_TRAINS, qj, 4099) {}
 
 //Diesel, available ID range: 5120-6143 (hex 0x1400..0x17FF)
 #define id_range_diesel 0x1400..0x17FF

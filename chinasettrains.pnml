@@ -204,6 +204,7 @@
 #include "src/steam/jf1.pnml"
 #include "src/steam/sl6.pnml"
 #include "src/steam/sy.pnml"
+#include "src/steam/qj.pnml"
 
 // Diesel
 #include "src/diesel/df.pnml"
