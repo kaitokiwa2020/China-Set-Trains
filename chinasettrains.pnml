@@ -138,6 +138,7 @@
 #include "src/coaches/25t/uz25t.pnml"
 #include "src/coaches/25t/kd25t.pnml"
 #include "src/coaches/25t/rw19t.pnml"
+#include "src/coaches/25t/rw19t_tanggula.pnml"
 
 #include "src/coaches/25z/rz125z.pnml"
 #include "src/coaches/25z/rz225z.pnml"
