@@ -29,7 +29,13 @@ STR_PARAM_WAGON_CARGO_DECAY_DESC,"Set cargo age period of mail and freight wagon
 STR_USED_WITH_DYNAMIC_ENGINES,"This GRF needs dynamic_engines to be turned on. Open console, and type ""set dynamic_engines 1"".","请切换至控制台模式，键入 ""set dynamic_engines 1""， 否则您无法游玩中国包。"
 # Name,,
 STR_NAME_YZ1,YZ1 (Passenger Coach),YZ1 (客车)
+STR_NAME_YW18_4,YW18 (Gen4) (Passenger Coach),YW18 (第四代) (客车)
+STR_NAME_RW18_4,RW18 (Gen4) (Passenger Coach),RW18 (第四代) (客车)
+STR_NAME_CA18_4,CA18 (Gen4) (Restaurant Car),CA18 (第四代) (餐车)
+STR_NAME_RW19_4,RW19 (Gen4) (Passenger Coach),RW19 (第四代) (客车)
 STR_NAME_YZ21,YZ21 (Passenger Coach),YZ21 (客车)
+STR_NAME_YW21,YZ21 (Passenger Coach),YW21 (客车)
+STR_NAME_RW21,YZ21 (Passenger Coach),RW21 (客车)
 STR_NAME_YZ22,YZ22 (Passenger Coach),YZ22 (客车)
 STR_NAME_RZ22,RZ22 (Passenger Coach),RZ22 (客车)
 STR_NAME_YW22,YW22 (Passenger Coach),YW22 (客车)
@@ -103,6 +109,8 @@ STR_NAME_YW25T,YW25T (Passenger Coach),YW25T (客车)
 STR_NAME_RW25T,RW25T (Passenger Coach),RW25T (客车)
 STR_NAME_CA25T,CA25T (Restaurant Car),CA25T (餐车)
 STR_NAME_YZ31,YZ31 (Passenger Coach),YZ31 (客车)
+STR_NAME_XL18_4,XL18 (Gen4) (Luggage Car),XL18 (第四代) (行李车)
+STR_NAME_XL21,XL21 (Luggage Car),XL21 (行李车)
 STR_NAME_XL22,XL22 (Luggage Car),XL22 (行李车)
 STR_NAME_XL25ML,XL25 (Mainline) (Luggage Car),XL25 (干线) (行李车)
 STR_NAME_XL25B,XL25B (Luggage Car),XL25B (行李车)
@@ -347,7 +355,14 @@ STR_NAME_WGMUW,Top-Class Sleeper (WG) MU Wagon,动车组高级软卧车厢
 STR_NAME_KYMUW,Cargo MU Wagon,动车组货运车厢
 # Full Name,,
 STR_FULL_NAME_YZ1,{BLACK}FULLNAME: {GOLD}1 Type Hard Seat Passenger Coach,{BLACK}全称：{GOLD}1型硬座客车
-STR_FULL_NAME_YZ21,{BLACK}FULLNAME: {GOLD}21 Type Hard Seat Passenger Coach,{BLACK}全称：{GOLD}21型硬座客车
+STR_FULL_NAME_YW18,{BLACK}FULLNAME: {GOLD}Type 18 Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}18型硬卧客车
+STR_FULL_NAME_RW18,{BLACK}FULLNAME: {GOLD}Type 18 Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}18型软卧客车
+STR_FULL_NAME_CA18,{BLACK}FULLNAME: {GOLD}Type 18 Restaurant Car,{BLACK}全称：{GOLD}18型餐车
+STR_FULL_NAME_RW19,{BLACK}FULLNAME: {GOLD}Type 19 Advanced Soft Sleeper Passenger Coach ,{BLACK}全称：{GOLD}19型高级软卧客车
+STR_FULL_NAME_YZ21,{BLACK}FULLNAME: {GOLD}Type 21 Hard Seat Passenger Coach,{BLACK}全称：{GOLD}21型硬座客车
+STR_FULL_NAME_YW21,{BLACK}FULLNAME: {GOLD}Type 21 Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}21型硬卧客车
+STR_FULL_NAME_RW21,{BLACK}FULLNAME: {GOLD}Type 21 Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}21型软卧客车
+STR_FULL_NAME_CA21,{BLACK}FULLNAME: {GOLD}Type 21 Restaurant Car,{BLACK}全称：{GOLD}21型餐车
 STR_FULL_NAME_YZ22,{BLACK}FULLNAME: {GOLD}22 Type Hard Seat Passenger Coach,{BLACK}全称：{GOLD}22型硬座客车
 STR_FULL_NAME_RZ22,{BLACK}FULLNAME: {GOLD}22 Type Soft Seat Passenger Coach,{BLACK}全称：{GOLD}22型软座客车
 STR_FULL_NAME_YW22,{BLACK}FULLNAME: {GOLD}22 Type Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}22型硬卧客车
@@ -415,6 +430,8 @@ STR_FULL_NAME_YW25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Hard Sleeper Passenge
 STR_FULL_NAME_RW25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米提速型软卧客车
 STR_FULL_NAME_YZ31,{BLACK}FULLNAME: {GOLD}31 Type Hard Seat Passenger Coach,{BLACK}全称：{GOLD}31型硬座客车
 STR_FULL_NAME_CA25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Restaurant Car,{BLACK}全称：{GOLD}25米提速型餐车
+STR_FULL_NAME_XL18,{BLACK}FULLNAME: {GOLD}Type 18 Luggage Car,{BLACK}全称：{GOLD}18型行李车
+STR_FULL_NAME_XL21,{BLACK}FULLNAME: {GOLD}Type 21 Luggage Car,{BLACK}全称：{GOLD}21型行李车
 STR_FULL_NAME_XL22,{BLACK}FULLNAME: {GOLD}22 Type Luggage Car,{BLACK}全称：{GOLD}22型行李车
 STR_FULL_NAME_XL25ML,{BLACK}FULLNAME: {GOLD}Type 25 Mainline Luggage Car,{BLACK}全称：{GOLD}干线25型行李车
 STR_FULL_NAME_XL25B,{BLACK}FULLNAME: {GOLD}25m Standard Luggage Car,{BLACK}全称：{GOLD}25米标准型行李车
@@ -555,6 +572,7 @@ STR_CRH380B_SERIES,CRH380B Series (EMU),CRH380B系列 (电力动车组)
 STR_CR200J_SERIES,CR200J Series (EMU),CR200J系列 (电力动车组)
 STR_CR400AF_SERIES,CR400AF Series (EMU),CR400AF系列 (电力动车组)
 STR_CR400BF_SERIES,CR400BF Series (EMU),CR400BF系列 (电力动车组)
+STR_18_SERIES,Type 18 Series Coaches,18型客车
 STR_21_SERIES,Type 21 Series Coaches,21型客车
 STR_22_SERIES,Type 22 Series Coaches,22型客车
 STR_22_AIRCON_SERIES,Type 22 Series Air-conditioned Coaches,22型空调客车
@@ -582,6 +600,7 @@ STR_REFRIGERATOR_WAGON,Refrigerator Wagon,保温车
 STR_VEHICLE_TRANSPORTER,Vehicle Transporter,汽车运输车
 # Import Regien,,
 STR_US_IMPORT,Imported from United States,美国进口车型
+STR_DE_IMPORT,Imported from Germany,德国进口车型
 STR_FR_IMPORT,Imported from France,法国进口车型
 STR_HU_IMPORT,Imported from Hungary,匈牙利进口车型
 STR_SE_IMPORT,Imported from Sweden,瑞典进口车型

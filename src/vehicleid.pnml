@@ -155,6 +155,11 @@ item (FEAT_TRAINS, rw25sm, 2151) {}
 item (FEAT_TRAINS, ca25sm, 2152) {}
 item (FEAT_TRAINS, kd25sm, 2153) {}
 item (FEAT_TRAINS, sca25bhd, 2154) {}
+item (FEAT_TRAINS, yw18gen4, 2155) {}
+item (FEAT_TRAINS, rw18gen4, 2156) {}
+item (FEAT_TRAINS, rw19gen4, 2157) {}
+item (FEAT_TRAINS, ca18gen4, 2158) {}
+item (FEAT_TRAINS, xl18gen4, 2159) {}
 
 item (FEAT_TRAINS, luggageroom_s25, 3070) {}
 item (FEAT_TRAINS, luggageroom_25, 3071) {}

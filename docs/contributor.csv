@@ -55,7 +55,7 @@ Mikai,,,,
 SL6,sl6,JF,EMB,
 Pasguku,,,,
 JF6,jf6,,,
-QJ,qj,,,
+QJ,qj,Babel,EMB,
 RM,rm,,,
 SY,sy,John Franklin,JF,
 DF4K,df4k,JF,Mikhail,
@@ -127,7 +127,8 @@ DF11Plateau,,Babel,"NACHN,EMB",
 DF3,,5033,EMB,
 DF7D,,wuwu,"EMB, wuwu",
 DF9,,wuwu,wuwu,
-DFH1 Series,,Babel,EMB
+DFH1 Series,,Babel,EMB,
+HXN3C,,Babel,"asAn0,Babel","asAn0,Babel"
 C64,,JF,Babel,
 P62,,JF,Babel,
 G60,,JF,Babel,Other Colaor: Sunjuzhensun

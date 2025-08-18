@@ -34,6 +34,14 @@
 // Coaches
 
 #include "src/coaches/fixed-coaches/yz1.pnml"
+
+
+#include "src/coaches/18/yw18gen4.pnml"
+#include "src/coaches/18/rw18gen4.pnml"
+#include "src/coaches/18/rw19gen4.pnml"
+#include "src/coaches/18/xl18gen4.pnml"
+#include "src/coaches/18/ca18gen4.pnml"
+
 #include "src/coaches/22/yz22.pnml"
 #include "src/coaches/22/rz22.pnml"
 #include "src/coaches/22/yw22.pnml"
