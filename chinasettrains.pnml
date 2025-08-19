@@ -362,6 +362,7 @@
 #include "src/25-emu/cr400bfz.pnml"
 #include "src/25-emu/cr400bfabz.pnml"
 #include "src/25-emu/crh6a2.pnml"
+#include "src/25-emu/crh6a_comfort.pnml"
 #include "src/25-emu/crh6a3.pnml"
 #include "src/25-emu/crh6aa.pnml"
 #include "src/25-emu/crh6aacinova.pnml"

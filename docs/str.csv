@@ -340,6 +340,7 @@ STR_NAME_CR400BFC,CR400BF-C (Intelligent EMU),CR400BF-C (智能动车)
 STR_NAME_CR400BFZ,CR400BF-Z/S (Intelligent EMU),CR400BF-Z/S (智能动车)
 STR_NAME_CR400BFABZ,CR400BF-AZ/BZ/BS (Intelligent EMU),CR400BF-AZ/BZ/BS (长编组) (智能动车)
 STR_NAME_CRH6A2,CRH6A (2-Door Version) (EMU),CRH6A (二门版) (电力动车)
+STR_NAME_CRH6A_COMFORT,CRH6A (Comfort Version) (EMU),CRH6A (舒适版) (电力动车)
 STR_NAME_CRH6A3,CRH6A (3-Door Version) (EMU),CRH6A (三门版) (电力动车)
 STR_NAME_CRH6AA,CRH6A-A (Section) (EMU),CRH6A-A (整节) (电力动车)
 STR_NAME_CRH6AACINOVA,CRH6A-A (CINOVA2.0) (Section) (EMU),CRH6A-A (CINOVA2.0) (整节) (电力动车)
@@ -633,7 +634,6 @@ STR_NJ2_LIVERY_AVAILABILITY,{BLACK}Livery Availability: {WHITE}Original {GOLD}an
 STR_SS7C_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Original Livery, {YELLOW}Banana Yellow {GOLD}Livery",{BLACK}可供选择的涂装：{GOLD}大脸猫涂装，{YELLOW}香蕉{GOLD}涂装
 STR_6Y2_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {BLUE}Original Livery, Factory Livery, {GREEN}Late Livery",{BLACK}可供选择的涂装：{BLUE}原始涂装，出厂涂装，{GREEN}晚期涂装
 STR_DJJ1_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Original Livery, Guangzhou-Shenzhen Railway Livery",{BLACK}可供选择的涂装：{GOLD}蓝箭涂装，广深铁路涂装
-STR_CRH6A2_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Prototype, Guangzhou-Shenzhen, Guangzhou-Zhuhai, Tianfu (A nickname of Chengdu, meaning ""Paradise"") (with or without green stripes), Zhengzhou-Jiaozuo, Zhuhai-Airport, Pearl River Delta (Blue or Orange)",{BLACK}可供选择的涂装：{GOLD}原型，广深城际定制版，广珠城际，成都天府号 (有/无绿色条带)，郑焦城际，珠海机场，珠三角城际(蓝/橙色)
 STR_CRH6A3_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Beijing-Tongzhou, Shanghai-Jinshan",{BLACK}可供选择的涂装：{GOLD}京通号，金山铁路
 STR_CRH6AA_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Pearl River Delta, Guangzhou-Zhuhai, Tianfu (A nickname of Chengdu, meaning ""Paradise"") (with or without green stripes)",{BLACK}可供选择的涂装：{GOLD}珠三角城际，广珠城际，成都天府号 (有/无绿色条带)
 STR_CRH6F_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Pearl River Delta, Shanghai-Jinshan, Xiaoshan/Hangzhou-Ningbo, Changsha-Zhuzhou-Xiangtan",{BLACK}可供选择的涂装：{GOLD}珠三角城际、金山铁路、萧甬铁路、长株潭铁路
@@ -901,6 +901,7 @@ STR_GAOZU_GREEN_BSP,"{BLACK} - {DKGREEN}""Gaozu Green"" {BLACK}livery of BSP25T"
 STR_BSP25T,{BLACK} - Made by BSP,{BLACK} - BSP制造
 STR_25T_HK,{BLACK} - Used in Guangzhou-Kowloon Railway version,{BLACK} - 广九直通车版本
 STR_25T_HK_GREEN,"{BLACK} - {DKGREEN}""Gaozu Green"" {BLACK}livery of 25T used in Guangzhou-Kowloon Railway",{BLACK} - 广九直通车的刷{DKGREEN}绿{BLACK}涂装
+STR_QINGZANG_LOCO,{BLACK} - Qinghai-Tibet Railway Livery,{BLACK} - {DKGREEN}青藏铁路涂装
 STR_QINGZANG,{BLACK} - Qinghai-Tibet Railway Livery (Made in China),{BLACK} - {DKGREEN}青藏铁路涂装 (国产)
 STR_QINGZANG_BSP,{BLACK} - Qinghai-Tibet Railway Livery (Made by BSP),{BLACK} - {DKGREEN}青藏铁路涂装 (BSP)
 STR_WRU,{BLACK} - Wuhan Railway Vocational College of Technology Livery,{BLACK} - 武汉铁路技术学院涂装
@@ -994,8 +995,8 @@ STR_CRH_LSLEEPER_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: {GOLD}WY, ZEC(As 1st-
 STR_CARGOMU_CAN_ATTACH_WAGON,{BLACK}Matching Wagons: {GOLD}Cargo MU Wagom,{BLACK}匹配的车厢：{GOLD}动车组货运车厢
 STR_CRH5E_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: {GOLD}WY, ZEC(As 1st-Class Sleeper with Restaurant Wagon)",{BLACK}匹配的车厢：{GOLD}二等座、一等卧、高级软卧、二等/餐车合造 (实为软卧/餐车合造车)
 STR_CJ1_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: Only {GOLD}ZE{BLACK}, with standing places, Comfort: {ORANGE}160",{BLACK}匹配的车厢：仅有{GOLD}二等座{BLACK}带站席，舒适度：{ORANGE}160
-STR_CRH6A2_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: {GOLD}ZE{BLACK} (with standing places, Comfort: {ORANGE}160{BLACK}), {GOLD}ZY",{BLACK}匹配的车厢：{GOLD}二等座{BLACK} (带站席，舒适度：{ORANGE}160{BLACK})、{GOLD}一等座
-STR_CRH6A3_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: Only {GOLD}ZE{BLACK}, with standing places, Comfort: {ORANGE}160",{BLACK}匹配的车厢：仅有{GOLD}二等座{BLACK}带站席，舒适度：{ORANGE}160
+STR_CRH6A_COMFORT_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: {GOLD}ZE{BLACK} (with standing places, Comfort: {ORANGE}160{BLACK}), {GOLD}ZY",{BLACK}匹配的车厢：{GOLD}二等座、一等座、二等/餐车合造
+STR_CRH6A_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: Only {GOLD}ZE{BLACK}, with standing places, Comfort: {ORANGE}160",{BLACK}匹配的车厢：仅有{GOLD}二等座{BLACK}带站席，舒适度：{ORANGE}160
 STR_CRH6F_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: Only {GOLD}ZE{BLACK}, with standing places (Crowded), Comfort: {RED}128",{BLACK}匹配的车厢：仅有{GOLD}二等座{BLACK}带站席 (拥挤)，舒适度：{RED}128
 STR_NC3_CAN_ATTACH_WAGON,"{BLACK}Matching Wagons: Only {GOLD}ZE{BLACK}, Comfort: 185",{BLACK}匹配的车厢：仅有{GOLD}二等座{BLACK}，舒适度：{YELLOW}185
 # Consist,,
@@ -1040,10 +1041,9 @@ STR_CRH380B_CONSIST,"{BLACK}Consist: {GOLD}4 to 24 cars; with head, cab and ever
 STR_CRH380BL_CONSIST,"{BLACK}Consist: {GOLD}4 to 24 cars; with head, cab and every other car motorised (M-T-M-T-...-T-M-T-M)",{BLACK}构成：{GOLD}4-24节；头尾以及中间每隔一节车为动力车 (M-T-M-T-...-T-M-T-M)
 STR_CRH380CL_CONSIST,"{BLACK}Consist: {GOLD}4 to 24 cars; with head, cab and every other car motorised (M-T-M-T-...-T-M-T-M)",{BLACK}构成：{GOLD}4-24节；头尾以及中间每隔一节车为动力车 (M-T-M-T-...-T-M-T-M)
 STR_CRH380D_CONSIST,{BLACK}Consist: {GOLD}4 to 24 cars; with 8-car standard consist M-T-M-T-T-M-T-M. Will run as coupled when cars more than 12,{BLACK}构成：{GOLD}4-24节；8 节标准编组时为 M-T-M-T-T-M-T-M。大于12节时以重联方式运行
-STR_CRH6A2_CONSIST,"{BLACK}Consist: {GOLD}At least 4 cars, with a standard 8-car consist 4 motorised cars",{BLACK}构成：{GOLD}至少4节，其中8节标准编组为4M4T
-STR_CRH6A3_CONSIST,"{BLACK}Consist: {GOLD}At least 4 cars, with a standard 8-car consist 4 motorised cars",{BLACK}构成：{GOLD}至少4节，其中8节标准编组为4M4T
+STR_CRH6A_CONSIST,"{BLACK}Consist: {GOLD}4 to 24 cars, with a standard 8-car consist 4 motorised cars",{BLACK}构成：{GOLD}4-24节，其中8节标准编组为4M4T
 STR_CRH6AA_CONSIST,"{BLACK}Consist: {GOLD}Fixed consist of 4 cars (Mc-Tp-Tp-Mc), multiple sections available",{BLACK}构成：{GOLD}4节固定编组 (Mc-Tp-Tp-Mc)，可重联
-STR_CRH6F_CONSIST,"{BLACK}Consist: {GOLD}At least 4 cars, with a standard 8-car consist 4 motorised cars",{BLACK}构成：{GOLD}至少4节，其中8节标准编组为4M4T
+STR_CRH6F_CONSIST,"{BLACK}Consist: {GOLD}4 to 24 cars, with a standard 8-car consist 4 motorised cars",{BLACK}构成：{GOLD}4-24节，其中8节标准编组为4M4T
 STR_CR300_CONSIST,{BLACK}Consist: {GOLD}4 to 24 cars; with 8-car standard consist T-M-T-M-M-T-M-T. Will run as coupled when cars more than 12,{BLACK}构成：{GOLD}4-24节；8 节标准编组时为 T-M-T-M-M-T-M-T。大于12节时以重联方式运行
 # Head Seat,,
 STR_DJF1_HEAD_SEAT,{BLACK}Head Seat: {GOLD}Soft Seat (RZ) {BLACK} as 1st-Class (ZY),{BLACK}头车座席：一等座作为{GOLD}软座{BLACK}使用
@@ -1070,8 +1070,8 @@ STR_CRH380D_HEAD_SEAT,{BLACK}Head Seat: {GOLD}1st-Class (ZY),{BLACK}头车座席
 STR_CR400_HEAD_SEAT,{BLACK}Head Seat: {GOLD}1st-Class (ZY),{BLACK}头车座席：{GOLD}一等座
 STR_CR400_Z_HEAD_SEAT,{BLACK}Head Seat: {GOLD}Luxury-Business-Class (SW),{BLACK}头车座席：{GOLD}商务座 (复兴号智能动车组标准)
 STR_CR400_E_HEAD_SEAT,{BLACK}Head Seat: {GOLD}Business-Class (ZS),{BLACK}头车座席：{GOLD}特等座 (商务座)
-STR_CRH6A2_HEAD_SEAT,{BLACK}Head Seat: {GOLD}1st-Class (ZY),{BLACK}头车座席：{GOLD}一等座
-STR_CRH6A3_HEAD_SEAT,"{BLACK}Head Seat: {GOLD}2nd-Class (ZE){BLACK} with standing places, Comfort: {ORANGE}160",{BLACK}头车座席：{GOLD}二等座{BLACK}带站席，舒适度：{ORANGE}160
+STR_CRH6A_COMFORT_HEAD_SEAT,{BLACK}Head Seat: {GOLD}1st-Class (ZY),{BLACK}头车座席：{GOLD}一等座
+STR_CRH6A_HEAD_SEAT,"{BLACK}Head Seat: {GOLD}2nd-Class (ZE){BLACK} with standing places, Comfort: {ORANGE}160",{BLACK}头车座席：{GOLD}二等座{BLACK}带站席，舒适度：{ORANGE}160
 STR_CRH6F_HEAD_SEAT,"{BLACK}Head Seat: {GOLD}2nd-Class (ZE){BLACK} with standing places (crowded), Comfort: {RED}128",{BLACK}头车座席：{GOLD}二等座{BLACK}带站席 (拥挤)，舒适度：{RED}128
 STR_CR300_HEAD_SEAT,{BLACK}Head Seat: {GOLD}1st-Class (ZY),{BLACK}头车座席：{GOLD}一等座
 STR_HEADSEAT_ZW,{BLACK}Head Seat: {GOLD}2nd-Class (ZE),
