@@ -278,6 +278,7 @@
 #include "src/25-electric/ss8.pnml"
 #include "src/25-electric/ss9.pnml"
 #include "src/25-electric/ss9g.pnml"
+#include "src/25-electric/8k.pnml"
 #include "src/25-electric/6y2.pnml"
 #include "src/25-electric/hxd1.pnml"
 #include "src/25-electric/hxd11000.pnml"

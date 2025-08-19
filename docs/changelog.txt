@@ -7,7 +7,7 @@ China Set: Trains Changelog
 
 0.3.7 (2025-09-03)
 --------------------
-Add: FXN3C, 18 Series Gen4, QJ, DFH1 Series, RW19T "Tanggula" Tourist Train
+Add: FXN3C, 18 Series Gen4, QJ, DFH1 Series, RW19T "Tanggula" Tourist Train, 8k
 Completed the CRH6 Series:
     - CRH6A (2 Doors) can't attach 1st-Seat MU Wagons now
     - The seat type of CRH6A (2 Doors) change to 2nd-Seat MU Wagon now, and its capacity change so on
