@@ -277,8 +277,12 @@ item (FEAT_TRAINS, ny1, 5161) {}
 item (FEAT_TRAINS, dfh1_early, 5162) {}
 item (FEAT_TRAINS, dfh1_late, 5163) {}
 item (FEAT_TRAINS, fxn3c, 5164) {}
-item (FEAT_TRAINS, fxn5c, 5164) {}
-
+item (FEAT_TRAINS, fxn5c, 5165) {}
+item (FEAT_TRAINS, nd4, 5166) {}
+item (FEAT_TRAINS, ny5_freight, 5167) {}
+item (FEAT_TRAINS, ny5_passenger, 5168) {}
+item (FEAT_TRAINS, ny6, 5169) {}
+item (FEAT_TRAINS, ny7, 5170) {}
 
 //25kV AC Electric, available ID range: 6144-7167 (hex 0x1800..0x1BFF)
 #define id_range_25_electric 0x1800..0x1BFF

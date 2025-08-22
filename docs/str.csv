@@ -233,8 +233,13 @@ STR_NAME_BEIJING_PASSENGER,Beijing (Diesel) (Passenger Type),北京 (内燃)  (�
 STR_NAME_BEIJING_FREIGHT,Beijing (Diesel) (Freight Type),北京 (内燃)  (货运型)
 STR_NAME_BEIJING_SPECIAL,Beijing (Diesel) (Special Type),北京 (内燃)  (专运型)
 STR_NAME_BEIJING_RECONNECT_FREIGHT,Beijing (Diesel) (Reconnect Freight Type),北京 (内燃)  (重联货运型)
+STR_NAME_ND4,ND4 (Diesel),ND4 (内燃)
 STR_NAME_ND5,ND5 (Diesel),ND5 (内燃)
 STR_NAME_NJ2,NJ2 (Diesel),NJ2 (内燃)
+STR_NAME_NY5_PASSENGER,NY5 (Diesel) (Passenger Type),NY5 (内燃) (客运型)
+STR_NAME_NY5_FREIGHT,NY5 (Diesel) (Freight Type),NY5 (内燃) (货运型)
+STR_NAME_NY6,NY6 (Diesel),NY6 (内燃)
+STR_NAME_NY7,NY7 (Diesel),NY7 (内燃)
 STR_NAME_HXN3,HXN3 (Diesel),HXN3 (内燃)
 STR_NAME_HXN3QZ,HXN3 (Diesel) (Plateau Type),HXN3 (内燃) (高原型)
 STR_NAME_HXN5,HXN5 (Diesel),HXN5 (内燃)
@@ -503,7 +508,11 @@ STR_FULL_NAME_BEIJING_PASSENGER,{BLACK}FULLNAME: {GOLD}Passenger Type Beijing Di
 STR_FULL_NAME_BEIJING_FREIGHT,{BLACK}FULLNAME: {GOLD}Freight Type Beijing Diesel Locomotive,{BLACK}全称：{GOLD}北京货运型内燃机车
 STR_FULL_NAME_BEIJING_SPECIAL,{BLACK}FULLNAME: {GOLD}Special Type Beijing Diesel Locomotive,{BLACK}全称：{GOLD}北京专运型内燃机车
 STR_FULL_NAME_BEIJING_RECONNECT_FREIGHT,{BLACK}FULLNAME: {GOLD}Reconnect Freight Type Beijing Diesel Locomotive,{BLACK}全称：{GOLD}北京重联货运型内燃机车
+STR_FULL_NAME_ND4,{BLACK}FULLNAME: {GOLD}Neidian 4 Diesel Locomotive,{BLACK}全称：{GOLD}内电4型内燃机车
 STR_FULL_NAME_ND5,{BLACK}FULLNAME: {GOLD}Neidian 5 Diesel Locomotive,{BLACK}全称：{GOLD}内电5型内燃机车
+STR_FULL_NAME_NY5,{BLACK}FULLNAME: {GOLD}Neiye 5 Diesel Locomotive,{BLACK}全称：{GOLD}内液5型内燃机车
+STR_FULL_NAME_NY6,{BLACK}FULLNAME: {GOLD}Neiye 6 Diesel Locomotive,{BLACK}全称：{GOLD}内液6型内燃机车
+STR_FULL_NAME_NY7,{BLACK}FULLNAME: {GOLD}Neiye 7 Diesel Locomotive,{BLACK}全称：{GOLD}内液7型内燃机车
 STR_FULL_NAME_HXN3,{BLACK}FULLNAME: {GOLD}Hexie 3 Diesel Locomotive,{BLACK}全称：{GOLD}和谐内3型内燃机车
 STR_FULL_NAME_HXN5,{BLACK}FULLNAME: {GOLD}Hexie 5 Diesel Locomotive,{BLACK}全称：{GOLD}和谐内5型内燃机车
 STR_FULL_NAME_HXN5B,{BLACK}FULLNAME: {GOLD}Hexie 5B Diesel Locomotive,{BLACK}全称：{GOLD}和谐内5B型内燃机车
@@ -552,6 +561,7 @@ STR_DF7G_SERIES,DF7G Series (Diesel Locomotive),DF7G系列 (内燃机车)
 STR_DF11_SERIES,DF11 Series (Diesel Locomotive),DF11系列 (内燃机车)
 STR_DFH1_SERIES,DFH1 Series (Diesel Locomotive),DFH1系列 (内燃机车)
 STR_BEIJING_SERIES,Beijing Series (Diesel Locomotive),北京系列 (内燃机车)
+STR_NY5_SERIES,NY5 Series (Diesel Locomotive),NY5系列 (内燃机车)
 STR_SS4_SERIES,SS4 Series (Electric Locomotive),SS4系列 (电力机车)
 STR_SS6_SERIES,SS6 Series (Electric Locomotive),SS6系列 (电力机车)
 STR_SS7_SERIES,SS7 Series (Electric Locomotive),SS7系列 (电力机车)
@@ -604,6 +614,8 @@ STR_VEHICLE_TRANSPORTER,Vehicle Transporter,汽车运输车
 # Import Regien,,
 STR_US_IMPORT,Imported from United States,美国进口车型
 STR_DE_IMPORT,Imported from Germany,德国进口车型
+STR_DBR_IMPORT,Imported from West Germany,西德进口车型
+STR_DDR_IMPORT,Imported from East Germany,东德进口车型
 STR_FR_IMPORT,Imported from France,法国进口车型
 STR_HU_IMPORT,Imported from Hungary,匈牙利进口车型
 STR_SE_IMPORT,Imported from Sweden,瑞典进口车型
@@ -706,6 +718,8 @@ STR_DF11_NICKNAME,{BLACK}Nickname: {GOLD}Lion,{BLACK}昵称：{GOLD}狮子
 STR_DF11G_NICKNAME,{BLACK}Nickname: {GOLD}Pig,{BLACK}昵称：{GOLD}猪
 STR_BEIJING_PASSENGER_NICKNAME,{BLACK}Nickname: {GOLD}Little Beijing,{BLACK}昵称：{GOLD}小北京
 STR_BEIJING_SPECIAL_NICKNAME,{BLACK}Nickname: {GOLD}Big Beijing,{BLACK}昵称：{GOLD}大北京
+STR_ND4_NICKNAME,{BLACK}Nickname: {BLUE}France Blue,{BLACK}昵称：{BLUE}法国蓝
+STR_NY5_NICKNAME,{BLACK}Nickname: {BLUE}High Powered,{BLACK}昵称：{BLUE}大马力
 STR_HXN5_NICKNAME,{BLACK}Nickname: {GOLD}Grasshopper,{BLACK}昵称：{GOLD}蚱蜢
 STR_HXN5B_NICKNAME,{BLACK}Nickname: {GOLD}Scrambled egg with tomato,{BLACK}昵称：{GOLD}番茄炒蛋
 STR_SS1_NICKNAME,{BLACK}Nickname: {GOLD}Peony,{BLACK}昵称：{BLUE}芍药
