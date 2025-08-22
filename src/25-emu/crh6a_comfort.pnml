@@ -93,9 +93,7 @@ switch (FEAT_TRAINS, SELF, switch_crh6a_comfort_wagon_graphics, (position_in_con
 
 
 
-switch (FEAT_TRAINS, SELF, switch_crh6a_comfort_wagon_length, position_in_consist_from_end) {
-    switch_length_2_8_2;
-}
+
 
 switch (FEAT_TRAINS, SELF, switch_crh6a_comfort_middle_capacity_1, vehicle_type_id) {
     1024: return 87;
