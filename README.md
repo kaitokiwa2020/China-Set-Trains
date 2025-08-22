@@ -102,7 +102,7 @@ Contributors (in alphabetical order):
 - FJZer0ich
 - Haiyan
 - huanfeng
-- Jiaojie (CR400-BF-5033)
+- guangming
 - John Franklin
 - Mikhail
 - NACHN
@@ -110,6 +110,7 @@ Contributors (in alphabetical order):
 - shentie106
 - WenSim
 - wuwu (kaitokiwa)
+- jackgqj
 
 If you want to know the author of the specific vox, click [here](docs/contributor.csv).
 

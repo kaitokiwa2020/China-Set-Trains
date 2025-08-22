@@ -104,6 +104,7 @@ Contributors (in alphabetical order):
 - shentie106
 - WenSim
 - wuwu (kaitokiwa)
+- jackgqj
 
 Thanks to:
 

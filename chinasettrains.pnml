@@ -42,6 +42,12 @@
 #include "src/coaches/18/xl18gen4.pnml"
 #include "src/coaches/18/ca18gen4.pnml"
 
+#include "src/coaches/21/yz21.pnml"
+#include "src/coaches/21/yw21.pnml"
+#include "src/coaches/21/rw21.pnml"
+#include "src/coaches/21/ca21.pnml"
+#include "src/coaches/21/xl21.pnml"
+
 #include "src/coaches/22/yz22.pnml"
 #include "src/coaches/22/rz22.pnml"
 #include "src/coaches/22/yw22.pnml"
