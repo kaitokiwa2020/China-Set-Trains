@@ -1092,7 +1092,7 @@ STR_CRH6A_COMFORT_HEAD_SEAT,{BLACK}Head Seat: {GOLD}1st-Class (ZY),{BLACK}头车
 STR_CRH6A_HEAD_SEAT,"{BLACK}Head Seat: {GOLD}2nd-Class (ZE){BLACK} with standing places, Comfort: {ORANGE}160",{BLACK}头车座席：{GOLD}二等座{BLACK}带站席，舒适度：{ORANGE}160
 STR_CRH6F_HEAD_SEAT,"{BLACK}Head Seat: {GOLD}2nd-Class (ZE){BLACK} with standing places (crowded), Comfort: {RED}128",{BLACK}头车座席：{GOLD}二等座{BLACK}带站席 (拥挤)，舒适度：{RED}128
 STR_CR300_HEAD_SEAT,{BLACK}Head Seat: {GOLD}1st-Class (ZY),{BLACK}头车座席：{GOLD}一等座
-STR_HEADSEAT_ZW,{BLACK}Head Seat: {GOLD}2nd-Class (ZE),
+STR_HEADSEAT_ZE,{BLACK}Head Seat: {GOLD}2nd-Class (ZE),
 STR_HEADSEAT_ZY,{BLACK}Head Seat: {GOLD}1st-Class (ZY),
 STR_HEADSEAT_ZS,{BLACK}Head Seat: {GOLD}Business-Class (ZS),
 STR_HEADSEAT_SW,{BLACK}Head Seat: {GOLD}Luxury-Business-Class (SW),

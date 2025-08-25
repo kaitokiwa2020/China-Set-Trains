@@ -16,6 +16,8 @@ Completed the CRH6 Series:
 Fix #65: CR400BF-0031/0057 can't run on wide guage 
 Fix #66: luggage room in RZXL coaches with wrong electric visual effects
 Fix #67: RZXL25Z can't change livery normaly
+Fix #68: Power of NYJ1 "Baeihai"
+Fix #69：Add warning sprites when NDJ3 and NZJ1  in wrong consist
 Fix some text wrongs
 
 0.3.5 (2025-06-01)
