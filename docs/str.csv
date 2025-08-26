@@ -272,6 +272,7 @@ STR_NAME_8K,8K (Electric),8K (电力)
 STR_NAME_HXD1,HXD1 (Electric),HXD1 (电力)
 STR_NAME_HXD11000,HXD1-1000 (Electric),HXD1-1000 (电力)
 STR_NAME_HXD1B,HXD1B (Electric),HXD1B (电力)
+STR_NAME_HXD1C,HXD1C (Electric),HXD1C (电力)
 STR_NAME_HXD1D,HXD1D (Electric),HXD1D (电力)
 STR_NAME_HXD2,HXD2 (Electric),HXD2 (电力)
 STR_NAME_HXD2B,HXD2B (Electric),HXD2B (电力)
@@ -542,6 +543,7 @@ STR_FULL_NAME_SS9G,{BLACK}FULLNAME: {GOLD}Shaoshan 9G Electric Locomotive,{BLACK
 STR_FULL_NAME_HXD1,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 1 Electric Locomotive,{BLACK}全称：{GOLD}和谐1型电力机车
 STR_FULL_NAME_HXD11000,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 1 Electric Locomotive 1000 Series,{BLACK}全称：{GOLD}和谐1型电力机车1000系
 STR_FULL_NAME_HXD1B,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 1B Electric Locomotive,{BLACK}全称：{GOLD}和谐1B型电力机车
+STR_FULL_NAME_HXD1C,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 1C Electric Locomotive,{BLACK}全称：{GOLD}和谐1C型电力机车
 STR_FULL_NAME_HXD1D,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 1D Electric Locomotive,{BLACK}全称：{GOLD}和谐1D型电力机车
 STR_FULL_NAME_FXD1B,{BLACK}FULLNAME: {GOLD}Fuxing/Revival 1B Electric Locomotive,{BLACK}全称：{GOLD}复兴1B型电力机车
 STR_FULL_NAME_FXD1B1000,{BLACK}FULLNAME: {GOLD}Fuxing/Revival 1B Electric Locomotive 1000 Series,{BLACK}全称：{GOLD}复兴1B型电力机车1000系
@@ -743,6 +745,7 @@ STR_SS9_NICKNAME,{BLACK}Nickname: {GOLD}Frog,{BLACK}昵称：{GOLD}青蛙
 STR_SS9G_NICKNAME,{BLACK}Nickname: {GOLD}Shochu,{BLACK}昵称：{GOLD}烧酒
 STR_HXD1_NICKNAME,{BLACK}Nickname: {GOLD}Smurf,{BLACK}昵称：{GOLD}蓝精灵
 STR_HXD1B_NICKNAME,{BLACK}Nickname: {GOLD}River Crab,{BLACK}昵称：{GOLD}河蟹
+STR_HXD1C_NICKNAME,{BLACK}Nickname: {GOLD}Crab,{BLACK}昵称：{GOLD}螃蟹
 STR_HXD1D_NICKNAME,{BLACK}Nickname: {GOLD}Jujube,{BLACK}昵称：{GOLD}红枣
 STR_HXD2_NICKNAME,{BLACK}Nickname: {GOLD}Electric Hippo,{BLACK}昵称：{GOLD}电河马
 STR_HXD3_NICKNAME,{BLACK}Nickname: {GOLD}Electric Monkey,{BLACK}昵称：{GOLD}电猴

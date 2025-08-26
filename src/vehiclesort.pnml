@@ -82,7 +82,7 @@ sort (FEAT_TRAINS, [
     hxd1,
     hxd11000,
     hxd1b,
-/*     hxd1c, */
+    hxd1c,
     hxd1d,
     hxd2,
     hxd21000,
