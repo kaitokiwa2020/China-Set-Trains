@@ -11,10 +11,9 @@ CRH380B,,JF,Qipaoxian,
 CRH3C,,JF,Qipaoxian,
 CRH2G,,JF*Recoded by Babel,"Qipaoxian,Babel",
 CRH380CL,,JF,Qipaoxian,
-CRH6A2,,JF,"Qipaoxian,,Nengyeqing",All:Nengyeqing
-CRH6A3,,JF,"Qipaoxian,,Nengyeqing",All:Nengyeqing
+CRH6A Series,,JF*Recoded by Babel,"Qipaoxian,,Nengyeqing",All:Nengyeqing
 CRH6A-A,,JF,"Qipaoxian,,Nengyeqing",All:Nengyeqing
-CRH6F,,JF,"Qipaoxian,,Nengyeqing",All:Nengyeqing
+CRH6F,,JF,"Qipaoxian,,Nengyeqing","Nengyeqing, Qipaoxian"
 CRH6FA,,Qipaoxian,"Qipaoxian,Nengyeqing",All:Nengyeqing
 CJ6,,Qipaoxian,"Qipaoxian,Ahyangyi",
 CINOVA2.0,,Qipaoxian,Qipaoxian,
@@ -51,7 +50,7 @@ CRH380AM,,Qipaoxian,Qipaoxian,
 DJF1,,Babel,Qipaoxian,
 CRH2A4020,,Babel,Babel,
 JF1,jf1,JF,EMB,
-Mikai,,,,
+Mikai,,Babel,EMB,
 SL6,sl6,JF,EMB,
 Pasguku,,,,
 JF6,jf6,,,
@@ -134,6 +133,7 @@ ND4,,Babel,EMB,
 NY5,,Babel,EMB,EMB
 NY6,,Babel,EMB,EMB
 NY7,,Babel,EMB,EMB
+HXD1C,,Babel,"Soviet Union,EMB",
 C64,,JF,Babel,
 P62,,JF,Babel,
 G60,,JF,Babel,Other Colaor: Sunjuzhensun
@@ -277,3 +277,4 @@ SRZ25,,Babel,Haiyan,
 18Series Gen4,,Babel,Haiyan,
 RW19T"Tanggula",,Babel,Haiyan,
 21 Series,,Babel,jackgqj,
+Ha1,,Babel,Babel

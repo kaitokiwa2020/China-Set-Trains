@@ -33,6 +33,8 @@
 
 // Coaches
 
+#include "src/coaches/smr/ha1.pnml"
+
 #include "src/coaches/fixed-coaches/yz1.pnml"
 
 
@@ -216,6 +218,7 @@
 #include "src/function2.pnml"
 
 // Steam
+#include "src/steam/mikai.pnml"
 #include "src/steam/jf1.pnml"
 #include "src/steam/sl6.pnml"
 #include "src/steam/sy.pnml"

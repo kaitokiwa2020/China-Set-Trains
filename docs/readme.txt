@@ -90,21 +90,23 @@ make
 Contributors (in alphabetical order):
 
 - Ahyangyi
+- asAn0
 - babel
-- ctx
+- ctx (Qipaoxian)
 - DF43110
 - EMB190
 - FJZer0ich
 - Haiyan
 - huanfeng
+- jackgqj 
 - John Franklin
 - Mikhail
 - NACHN
 - nengyeqing
 - shentie106
+- Soviet Union
 - WenSim
 - wuwu (kaitokiwa)
-- jackgqj
 
 Thanks to:
 

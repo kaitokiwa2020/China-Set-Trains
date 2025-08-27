@@ -5,7 +5,7 @@ China Set: Trains Changelog
 
 ## Initial-0-3 Updates
 
-0.3.7 (2025-09-03)
+0.3.7 (2025-08-27)
 --------------------
 Add: FXN3C, 18 Series Gen4, QJ, DFH1 Series, RW19T "Tanggula" Tourist Train, 8K, NY5, NY6, NY7, ND4, 21 Series, HXD1C
 Completed the CRH6 Series:

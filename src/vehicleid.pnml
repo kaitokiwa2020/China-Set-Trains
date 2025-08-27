@@ -167,6 +167,7 @@ item (FEAT_TRAINS, rw21, 2163) {}
 item (FEAT_TRAINS, ca21, 2164) {}
 item (FEAT_TRAINS, xl21, 2165) {}
 item (FEAT_TRAINS, yz21early, 2166) {}
+item (FEAT_TRAINS, ha1, 2167) {}
 
 item (FEAT_TRAINS, luggageroom_s25, 3070) {}
 item (FEAT_TRAINS, luggageroom_25, 3071) {}

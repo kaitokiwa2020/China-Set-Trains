@@ -28,6 +28,7 @@ STR_PARAM_WAGON_CARGO_DECAY,Cargo age period of mail and freight wagons,单独�
 STR_PARAM_WAGON_CARGO_DECAY_DESC,"Set cargo age period of mail and freight wagons individually, multiplied by ""Cargo Age Period"" again. It makes very-long-distance transport of freight possible.","单独设置邮件车和货车的货物贬值周期，在选项""货物贬值周期""上叠加计算。这个选项使超长途货物运输成为可能"
 STR_USED_WITH_DYNAMIC_ENGINES,"This GRF needs dynamic_engines to be turned on. Open console, and type ""set dynamic_engines 1"".","请切换至控制台模式，键入 ""set dynamic_engines 1""， 否则您无法游玩中国包。"
 # Name,,
+STR_NAME_HA1,Ha 1 (Passenger Coach),ハ1 (客车)
 STR_NAME_YZ1,YZ1 (Passenger Coach),YZ1 (客车)
 STR_NAME_YW18_4,YW18 (Gen4) (Passenger Coach),YW18 (第四代) (客车)
 STR_NAME_RW18_4,RW18 (Gen4) (Passenger Coach),RW18 (第四代) (客车)
@@ -196,6 +197,7 @@ STR_NAME_JSQ5,JSQ5 (Vehicle Transporter),JSQ5 (汽车运输车)
 STR_NAME_JSQ6,JSQ6 (Vehicle Transporter),JSQ6 (汽车运输车)
 STR_NAME_L70,L70 (Hopper),L70 (粮食漏斗车)
 STR_NAME_J5,J5 (Livestock Wagon),J5 (家畜运输车)
+STR_NAME_MIKAI,Mikai (Steam),ミカイ (蒸汽)
 STR_NAME_JF1,JF1 (Steam),JF1 (蒸汽)
 STR_NAME_SL6,SL6 (Steam),SL6 (蒸汽)
 STR_NAME_QJ,QJ (Steam),QJ (蒸汽)
@@ -556,6 +558,7 @@ STR_FULL_NAME_HXD3,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3 Electric Locomotive,{B
 STR_FULL_NAME_HXD3C,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3C Electric Locomotive,{BLACK}全称：{GOLD}和谐3C型电力机车
 STR_FULL_NAME_HXD3D,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3D Electric Locomotive,{BLACK}全称：{GOLD}和谐3D型电力机车
 # Series Nmae,,
+STR_MIKA_SERIES,Mika Series (Steam Locomotive),ミカ系列 (蒸汽机车)
 STR_JF_SERIES,JieFang Series (Steam Locomotive),解放系列 (蒸汽机车)
 STR_SL_SERIES,ShengLi Series (Steam Locomotive),胜利系列 (蒸汽机车)
 STR_DF4_SERIES,DF4 Series (Diesel Locomotive),DF4系列 (内燃机车)
@@ -590,6 +593,8 @@ STR_CRH380B_SERIES,CRH380B Series (EMU),CRH380B系列 (电力动车组)
 STR_CR200J_SERIES,CR200J Series (EMU),CR200J系列 (电力动车组)
 STR_CR400AF_SERIES,CR400AF Series (EMU),CR400AF系列 (电力动车组)
 STR_CR400BF_SERIES,CR400BF Series (EMU),CR400BF系列 (电力动车组)
+STR_SMR_COACHES_SERIES,SMR Coaches,满铁客车
+STR_FIXED_COACHES_SERIES,Fixed Coaches,杂型客车
 STR_18_SERIES,Type 18 Series Coaches,18型客车
 STR_21_SERIES,Type 21 Series Coaches,21型客车
 STR_22_SERIES,Type 22 Series Coaches,22型客车
@@ -634,6 +639,7 @@ STR_LV_COLOR_PREFIX,{STRING}{STRING}{STRING}{STRING},
 STR_LV_AVAILABLE_S,{STRING}{STRING} {STRING} {STRING} {STRING} {STRING},
 STR_LV_AVAILABLE_L,{STRING}{STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING} {STRING},
 # Desc,,
+STR_SMR_VEHICLE,"{BLACK}Vehicle used by the South Manchuria Railway, a railway company which was established by the Japanese during their invasion of China",{BLACK}日本侵略者所设立的“南满洲铁道株式会社”所使用过的车辆
 STR_JINLUN_25DT,"Coaches use for DMU {BLUE}""JIN{WHITE}LUN""",{BLUE}金{WHITE}轮{RED}号{GOLD}内燃动车组所使用的拖车
 STR_XL25T_SSPE_DESCRIPTION,"{BLACK}A version of XL25T for Super Speed Parcel Express Co., Ltd.",{BLACK}新时速运递公司使用的XL25T版本。
 STR_CHA1C_DESC,"{BLACK}Hybrid Locomotive using battery on non-electrified tracks providing {BLUE}2000 kW{BLACK}, and providing {RED}2400 kW{BLACK} on 25kV AC tracks",{BLACK}混合动力机车。在非电气化路段使用电池供电，功率为{BLUE}2000 kW{BLACK}。在25kV交流供电铁路上功率为{RED}2400 kW

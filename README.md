@@ -95,22 +95,24 @@ make
 Contributors (in alphabetical order):
 
 - Ahyangyi
+- asAn0
 - babel
-- ctx
+- ctx (Qipaoxian)
 - DF43110
 - EMB190
 - FJZer0ich
 - Haiyan
 - huanfeng
 - guangming
+- jackgqj
 - John Franklin
 - Mikhail
 - NACHN
 - nengyeqing
 - shentie106
+- Soviet Union
 - WenSim
 - wuwu (kaitokiwa)
-- jackgqj
 
 If you want to know the author of the specific vox, click [here](docs/contributor.csv).
 
