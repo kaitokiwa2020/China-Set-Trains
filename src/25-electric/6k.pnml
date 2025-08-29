@@ -1,42 +1,39 @@
-// Begin SS6
-switch (FEAT_TRAINS, SELF, switch_ss6_name, getbits(extra_callback_info1, 0, 8) == 0x20? getbits(extra_callback_info1, 8, 8) : 0xFFFF) {
-    0: return string(STR_SS6_SERIES);
-    return CB_RESULT_NO_TEXT;
-}
+// Begin 6K
+
 // Graphics
 
 // Purchase Menu
-spriteset (spriteset_ss6_purchase_original, ZOOM_LEVEL_IN_4X, BIT_DEPTH_32BPP) {
-    template_purchase ("25-electric", "ss6")
+spriteset (spriteset_6k_purchase_original, ZOOM_LEVEL_IN_4X, BIT_DEPTH_32BPP) {
+    template_purchase ("25-electric", "6k")
 }
 
 // Vehicle
-spriteset (spriteset_ss6_original, ZOOM_LEVEL_IN_4X, BIT_DEPTH_32BPP) {
-    template_standard ("25-electric", "ss6")
+spriteset (spriteset_6k_original, ZOOM_LEVEL_IN_4X, BIT_DEPTH_32BPP) {
+    template_standard ("25-electric", "6k")
 }
 
-switch (FEAT_TRAINS, SELF, switch_ss6_articulated_part, extra_callback_info1) {
-    1..2: return ss6;
+switch (FEAT_TRAINS, SELF, switch_6k_articulated_part, extra_callback_info1) {
+    1..2: return _6k;
     return CB_RESULT_NO_MORE_ARTICULATED_PARTS;
 }
 
-switch (FEAT_TRAINS, SELF, switch_ss6_graphics, position_in_articulated_veh % 3) {
-    1: spriteset_ss6_original;
+switch (FEAT_TRAINS, SELF, switch_6k_graphics, position_in_articulated_veh % 3) {
+    1: spriteset_6k_original;
     empty_sprites;
 }
 
 
-item (FEAT_TRAINS, ss6) {
+item (FEAT_TRAINS, _6k) {
     property {
         // Menu
-        name:                           string(STR_NAME_SS6);
+        name:                           string(STR_NAME_6K);
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
         misc_flags:                     bitmask(TRAIN_FLAG_AUTOREFIT);
         engine_class:                   ENGINE_CLASS_ELECTRIC;
 
         // Availability
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(1991,01,01);
+        introduction_date:              date(1987,01,01);
         model_life:                     60;
         retire_early:                   30;
         vehicle_life:                   30;
@@ -59,19 +56,19 @@ item (FEAT_TRAINS, ss6) {
         power:                          4800 kW;
         weight:                         138 ton;
         tractive_effort_coefficient:    0.359;
-        cost_factor:                    127;
+        cost_factor:                    53;
         running_cost_base:              RUNNING_COST_ELECTRIC;
-        running_cost_factor:            104;
+        running_cost_factor:            50;
         reliability_decay:              10;
     }
     graphics {
         // Menu
-        additional_text:                string(STR_DESC_4, string(STR_FULL_NAME_SS6), string(STR_ELECTRICITY_SUPPLY_NO), string(STR_SS6_NICKNAME), string(STR_RELDEC_LOW, 10));
+        additional_text:                string(STR_DESC_3, string(STR_JP_IMPORT), string(STR_ELECTRICITY_SUPPLY_NO), string(STR_RELDEC_LOW, 10));
         can_attach_wagon:               locowagon;
         // Graphics
-        default:                        switch_ss6_graphics;
-        purchase:                       spriteset_ss6_purchase_original;
-        articulated_part:               switch_ss6_articulated_part;
+        default:                        switch_6k_graphics;
+        purchase:                       spriteset_6k_purchase_original;
+        articulated_part:               switch_6k_articulated_part;
 
         // Stats
         length:                         switch_length_2_6_2;
@@ -81,9 +78,8 @@ item (FEAT_TRAINS, ss6) {
         purchase_running_cost_factor:   300;
         purchase_cargo_capacity:        0;
         bitmask_vehicle_info:           0;
-        name:                           switch_ss6_name;
     }
 }
 
-// End SS6
+// End 6K
 
