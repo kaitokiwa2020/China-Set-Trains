@@ -104,7 +104,7 @@ Contributors (in alphabetical order):
 - NACHN
 - nengyeqing
 - shentie106
-- Soviet Union
+- SL-1230
 - WenSim
 - wuwu (kaitokiwa)
 
