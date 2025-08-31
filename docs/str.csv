@@ -166,14 +166,26 @@ STR_NAME_W6S,W6S (Boxcar for Toxic Good),W6S (有毒物品专用车)
 STR_NAME_B6,B6 (Refrigerator Wagon),B6 (保温车)
 STR_NAME_B22,B22 (Refrigerator Wagon),B22 (保温车)
 STR_NAME_BH1,BH1 (Refrigerator Wagon),BH1 (保温车)
+STR_NAME_G11,G11 (Tanker),G11 (罐车)
 STR_NAME_G17,G17 (Tanker),G17 (罐车)
 STR_NAME_G50,G50 (Tanker),G50 (罐车)
 STR_NAME_G60,G60 (Tanker),G60 (罐车)
 STR_NAME_G70,G70 (Tanker),G70 (罐车)
 STR_NAME_G70A,G70A (Tanker),G70A (罐车)
+STR_NAME_G70B,G70B (Tanker),G70B (罐车)
+STR_NAME_GF1M,GF1M (Tanker),GF1M (罐车)
+STR_NAME_GF70,GF70 (Tanker),GF70 (罐车)
+STR_NAME_GH40LK,GH40LK (Tanker),GH40LK (罐车)
+STR_NAME_GH65K,GH65K (Tanker),GH65K (罐车)
+STR_NAME_GHA70,GHA70 (Tanker),GHA70 (罐车)
+STR_NAME_GHA70A,GHA70A (Tanker),GHA70A (罐车)
 STR_NAME_GH70B,GH70B (Tanker),GH70B (罐车)
+STR_NAME_GN60,GN60 (Tanker),GN60 (罐车)
 STR_NAME_GN70,GN70 (Tanker),GN70 (罐车)
 STR_NAME_GN80,GN80 (Tanker),GN80 (罐车)
+STR_NAME_GQ80,GQ80 (Tanker),GQ80 (罐车)
+STR_NAME_GS,GS (Tanker),GS (罐车)
+STR_NAME_BGW70,BGW70 (Tanker),BGW70 (罐车)
 STR_NAME_N5,N5 (Flatcar),N5 (平车)
 STR_NAME_N60,N60 (Flatcar),N60 (平车)
 STR_NAME_NX17,NX17 (Flatcar),NX17 (平车)
@@ -210,6 +222,7 @@ STR_NAME_DF7G5000,DF7G-5000 (Diesel Shunter),DF7G-5000 (内燃) (调车用)
 STR_NAME_DF7G8000,DF7G-8000 (Diesel Shunter),DF7G-8000 (内燃) (调车用)
 STR_NAME_DF8B,DF8B (Diesel),DF8B (内燃)
 STR_NAME_DF9,DF9 (Diesel),DF9 (内燃)
+STR_NAME_DF10,DF10 (Diesel),DF10 (内燃)
 STR_NAME_DF11,DF11 (Diesel),DF11 (内燃)
 STR_NAME_DF11PLATEAU,DF11 (Diesel) (Pateau Type),DF11 (内燃) (高原型)
 STR_NAME_DF11G,DF11G (Diesel),DF11G (内燃)
@@ -226,6 +239,9 @@ STR_NAME_HXN3,HXN3 (Diesel),HXN3 (内燃)
 STR_NAME_HXN3QZ,HXN3 (Diesel) (Plateau Type),HXN3 (内燃) (高原型)
 STR_NAME_HXN5,HXN5 (Diesel),HXN5 (内燃)
 STR_NAME_HXN5B,HXN5B (Diesel),HXN5B (内燃)
+STR_NAME_GC160,GC160 (Diesel Railbus),GC160 (内燃轨道车)
+STR_NAME_GC220,GC220 (Diesel Railbus),GC220 (内燃轨道车)
+STR_NAME_JY600,JY600 (Diesel Shunter),JY600 (内燃) (调车用)
 STR_NAME_SS1,SS1 (Electric),SS1 (电力)
 STR_NAME_SS3,SS3 (Electric),SS3 (电力)
 STR_NAME_SS3B,SS3B (Electric),SS3B (电力)
@@ -245,12 +261,15 @@ STR_NAME_SS8,SS8 (Electric),SS8 (电力)
 STR_NAME_SS9,SS9 (Electric),SS9 (电力)
 STR_NAME_SS9G,SS9G (Electric),SS9G (电力)
 STR_NAME_6Y2,6Y2 (Electric),6Y2 (电力)
+STR_NAME_6K,6K (Electric),6K (电力)
+STR_NAME_DJ1,DJ1 (Electric),DJ1 (电力)
 STR_NAME_HXD1,HXD1 (Electric),HXD1 (电力)
 STR_NAME_HXD11000,HXD1-1000 (Electric),HXD1-1000 (电力)
 STR_NAME_HXD1B,HXD1B (Electric),HXD1B (电力)
 STR_NAME_HXD1D,HXD1D (Electric),HXD1D (电力)
 STR_NAME_HXD2,HXD2 (Electric),HXD2 (电力)
 STR_NAME_HXD2B,HXD2B (Electric),HXD2B (电力)
+STR_NAME_HXD2D,HXD2D (Electric),HXD2D (电力)
 STR_NAME_HXD21000,HXD2-1000 (Electric),HXD2-1000 (电力)
 STR_NAME_HXD3,HXD3 (Electric),HXD3 (电力)
 STR_NAME_HXD3C,HXD3C (Electric),HXD3C (电力)
@@ -464,6 +483,7 @@ STR_FULL_NAME_DF7G5000,{BLACK}FULLNAME: {GOLD}Dongfeng 7G Diesel Locomotive 5000
 STR_FULL_NAME_DF7G8000,{BLACK}FULLNAME: {GOLD}Dongfeng 7G Diesel Locomotive 8000 Series,{BLACK}全称：{GOLD}东风7G型内燃机车8000系
 STR_FULL_NAME_DF8B,{BLACK}FULLNAME: {GOLD}Dongfeng 8B Diesel Locomotive,{BLACK}全称：{GOLD}东风8B型内燃机车
 STR_FULL_NAME_DF9,"{BLACK}FULLNAME: {GOLD}Dongfeng 9 Diesel Locomotive{}{BLACK}Livery Availability: {GOLD}Blue Livery, Red Livery, Light Blue Livery",{BLACK}全称：{GOLD}东风9型内燃机车{}{BLACK}可选择的涂装：{GOLD}蓝色涂装，红色涂装，浅蓝色涂装
+STR_FULL_NAME_DF10,{BLACK}FULLNAME: {GOLD}Dongfeng 10 Diesel Locomotive,{BLACK}全称：{GOLD}东风10型内燃机车
 STR_FULL_NAME_DF11,{BLACK}FULLNAME: {GOLD}Dongfeng 11 Diesel Locomotive,{BLACK}全称：{GOLD}东风11型内燃机车
 STR_FULL_NAME_DF11PLATEAU,{BLACK}FULLNAME: {GOLD}Dongfeng 11 Plateau Type Diesel Locomotive,{BLACK}全称：{GOLD}东风11高原型内燃机车
 STR_FULL_NAME_DF11G,{BLACK}FULLNAME: {BLUE}Dongfeng 11G {WHITE}Diesel Locomotive,{BLACK}全称：{BLUE}东风11G型{WHITE}内燃机车
@@ -478,6 +498,9 @@ STR_FULL_NAME_ND5,{BLACK}FULLNAME: {GOLD}Neidian 5 Diesel Locomotive,{BLACK}全�
 STR_FULL_NAME_HXN3,{BLACK}FULLNAME: {GOLD}Hexie 3 Diesel Locomotive,{BLACK}全称：{GOLD}和谐内3型内燃机车
 STR_FULL_NAME_HXN5,{BLACK}FULLNAME: {GOLD}Hexie 5 Diesel Locomotive,{BLACK}全称：{GOLD}和谐内5型内燃机车
 STR_FULL_NAME_HXN5B,{BLACK}FULLNAME: {GOLD}Hexie 5B Diesel Locomotive,{BLACK}全称：{GOLD}和谐内5B型内燃机车
+STR_FULL_NAME_GC160,{BLACK}FULLNAME: {GOLD}Qinglin GC160 Diesel Railbus,{BLACK}全称：{GOLD}秦岭GC160型重型轨道车
+STR_FULL_NAME_GC220,{BLACK}FULLNAME: {GOLD}Jinying GC220 Diesel Railbus,{BLACK}全称：{GOLD}金鹰GC220型重型轨道车
+STR_FULL_NAME_JY600,{BLACK}FULLNAME: {GOLD}Jinying JY600 Diesel Locomotive,{BLACK}全称：{GOLD}金鹰JY600型内燃机车
 STR_FULL_NAME_SS1,{BLACK}FULLNAME: {GOLD}Shaoshan 1 Electric Locomotive,{BLACK}全称：{GOLD}韶山1型电力机车
 STR_FULL_NAME_SS3,"{BLACK}FULLNAME: {GOLD}Shaoshan 3 Electric Locomotive{}{BLACK}Livery Availability: Ordinary {BLACK}Livery, {DKGREEN}Grassgreen {BLACK}Livery, {BLUE}Blue {BLACK}Livery, {RED}Red {BLACK}Livery and Fuzhou Livery",{BLACK}全称：{GOLD}韶山3型电力机车{}{BLACK}可替换的涂装：原始涂装，红色涂装，蓝色涂装，草绿色涂装，福州机务段涂装
 STR_FULL_NAME_SS3B,{BLACK}FULLNAME: {GOLD}Shaoshan 3B Electric Locomotive,{BLACK}全称：{GOLD}韶山3B型电力机车
@@ -505,11 +528,24 @@ STR_FULL_NAME_FXD1B1000,{BLACK}FULLNAME: {GOLD}Fuxing/Revival 1B Electric Locomo
 STR_FULL_NAME_HXD2,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 2 Electric Locomotive,{BLACK}全称：{GOLD}和谐2型电力机车
 STR_FULL_NAME_HXD21000,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 2 Electric Locomotive 1000 Series,{BLACK}全称：{GOLD}和谐2型电力机车1000系
 STR_FULL_NAME_HXD2B,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 2B Electric Locomotive,{BLACK}全称：{GOLD}和谐2B型电力机车
+STR_FULL_NAME_HXD2D,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 2D Electric Locomotive,{BLACK}全称：{GOLD}和谐2D型电力机车
 STR_FULL_NAME_FXD2B,{BLACK}FULLNAME: {GOLD}Fuxing/Revival 2B Electric Locomotive,{BLACK}全称：{GOLD}复兴2B型电力机车
 STR_FULL_NAME_FXD2B1000,{BLACK}FULLNAME: {GOLD}Fuxing/Revival 2B Electric Locomotive 1000 Series,{BLACK}全称：{GOLD}复兴2B型电力机车1000系
 STR_FULL_NAME_HXD3,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3 Electric Locomotive,{BLACK}全称：{GOLD}和谐3型电力机车
 STR_FULL_NAME_HXD3C,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3C Electric Locomotive,{BLACK}全称：{GOLD}和谐3C型电力机车
 STR_FULL_NAME_HXD3D,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3D Electric Locomotive,{BLACK}全称：{GOLD}和谐3D型电力机车
+STR_FULL_NAME_G11,{BLACK}FULLNAME: G11-type{GOLD} Acid-Alkali {BLACK}Tank Wagon,{BLACK}全称：G11型{GOLD}酸碱{BLACK}罐车
+STR_FULL_NAME_G70B,{BLACK}FULLNAME: G70B-type{GOLD} Light Oil {BLACK}Tank Wagon,{BLACK}全称：G70B型低重心{GOLD}轻油{BLACK}罐车
+STR_FULL_NAME_GF1M,{BLACK}FULLNAME: GF1M-type{GOLD} Fly Ash {BLACK}Tank Wagon,{BLACK}全称：GF1M型{GOLD}粉煤灰{BLACK}罐车
+STR_FULL_NAME_GF70,{BLACK}FULLNAME: GF70-type{GOLD} Alumina Powder {BLACK}Tank Wagon,{BLACK}全称：GF70型{GOLD}氧化铝粉{BLACK}罐车
+STR_FULL_NAME_GH40LK,{BLACK}FULLNAME: GH40LK-type{GOLD} Concentrated Nitric Acid {BLACK}Tank Wagon,{BLACK}全称：GH40LK型{GOLD}浓硝酸{BLACK}罐车
+STR_FULL_NAME_GH65K,{BLACK}FULLNAME: GH65K-type{GOLD} Yellow Phosphorus {BLACK}Tank Wagon,{BLACK}全称：GH65K型{GOLD}黄磷{BLACK}罐车
+STR_FULL_NAME_GHA70,{BLACK}FULLNAME: GHA70-type{GOLD} Alcohol {BLACK}Tank Wagon,{BLACK}全称：GHA70型{GOLD}醇类{BLACK}罐车
+STR_FULL_NAME_GHA70A,{BLACK}FULLNAME: GHA70A-type{GOLD} Para-xylene {BLACK}Tank Wagon,{BLACK}全称：GHA70A型{GOLD}对二甲苯{BLACK}罐车
+STR_FULL_NAME_GS,{BLACK}FULLNAME: GS-type{GOLD} Edible Oil {BLACK}Tank Wagon,{BLACK}全称：GS型{GOLD}食用油{BLACK}罐车
+STR_FULL_NAME_GQ80,{BLACK}FULLNAME: GQ80-type{GOLD} Light Oil {BLACK}Tank Wagon,{BLACK}全称：GQ80型{GOLD}轻油{BLACK}罐车
+STR_FULL_NAME_GN60,{BLACK}FULLNAME: GN60-type{GOLD} Heavy Oil {BLACK}Tank Wagon,{BLACK}全称：GN60型{GOLD}粘油{BLACK}罐车
+STR_FULL_NAME_BGW70,{BLACK}FULLNAME: BGW70-type{GOLD} Edible Oil {BLACK}Tank Wagon,{BLACK}全称：BGW70型{GOLD}食用油{BLACK}罐车
 # Series Nmae,,
 STR_JF_SERIES,JieFang Series (Steam Locomotive),解放系列 (蒸汽机车)
 STR_SL_SERIES,ShengLi Series (Steam Locomotive),胜利系列 (蒸汽机车)
@@ -518,6 +554,7 @@ STR_DF4D_SERIES,DF4D Series (Diesel Locomotive),DF4D系列 (内燃机车)
 STR_DF5_SERIES,DF5 Series (Diesel Locomotive),DF5系列 (内燃机车)
 STR_DF7D_SERIES,DF7D Series (Diesel Locomotive),DF7D系列 (内燃机车)
 STR_DF7G_SERIES,DF7G Series (Diesel Locomotive),DF7G系列 (内燃机车)
+STR_DF10_SERIES,DF10 Series (Diesel Locomotive),DF10系列 (内燃机车)
 STR_DF11_SERIES,DF11 Series (Diesel Locomotive),DF11系列 (内燃机车)
 STR_BEIJING_SERIES,Beijing Series (Diesel Locomotive),北京系列 (内燃机车)
 STR_SS4_SERIES,SS4 Series (Electric Locomotive),SS4系列 (电力机车)
@@ -571,6 +608,7 @@ STR_US_IMPORT,Imported from United States,美国进口车型
 STR_FR_IMPORT,Imported from France,法国进口车型
 STR_HU_IMPORT,Imported from Hungary,匈牙利进口车型
 STR_SE_IMPORT,Imported from Sweden,瑞典进口车型
+STR_JP_IMPORT,Imported from Japan,日本进口车型
 STR_DESC_8,{STRING}{}{STRING}{}{STRING}{}{STRING}{}{STRING}{}{STRING}{}{STRING}{}{STRING},
 STR_DESC_6,{STRING}{}{STRING}{}{STRING}{}{STRING}{}{STRING}{}{STRING},
 STR_DESC_5,{STRING}{}{STRING}{}{STRING}{}{STRING}{}{STRING},
@@ -596,6 +634,7 @@ STR_DF4DF_LIVERY_AVAILABILITY,{BLACK}Livery Availability: Original Livery,{BLACK
 STR_DF7G5000_LIVERY_AVAILABILITY,{BLACK}Livery Availability: Original Livery,{BLACK}可供选择的涂装：原版涂装
 STR_DF8B_LIVERY_AVAILABILITY,{BLACK}Livery Availability: Original Livery,{BLACK}可供选择的涂装：{GOLD}原版涂装
 STR_NJ2_LIVERY_AVAILABILITY,{BLACK}Livery Availability: {WHITE}Original {GOLD}and {DKGREEN}Qinghai{YELLOW}-{DKGREEN}Tibet Railway {GOLD}Livery,{BLACK}可供选择的涂装：{WHITE}原色{GOLD}涂装，{DKGREEN}青藏铁路{GOLD}涂装
+STR_GC220_LIVERY_AVAILABILITY,{BLACK}Livery Availability: {RED}Original Livery {BLUE}Blue Livery {GOLD}Orange Livery,{BLACK}可供选择的涂装：{RED}原版涂装 {BLUE}蓝色涂装 {GOLD}橙色涂装
 STR_SS7C_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Original Livery, {YELLOW}Banana Yellow {GOLD}Livery",{BLACK}可供选择的涂装：{GOLD}大脸猫涂装，{YELLOW}香蕉{GOLD}涂装
 STR_6Y2_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {BLUE}Original Livery, Factory Livery, {GREEN}Late Livery",{BLACK}可供选择的涂装：{BLUE}原始涂装，出厂涂装，{GREEN}晚期涂装
 STR_DJJ1_LIVERY_AVAILABILITY,"{BLACK}Livery Availability: {GOLD}Original Livery, Guangzhou-Shenzhen Railway Livery",{BLACK}可供选择的涂装：{GOLD}蓝箭涂装，广深铁路涂装
@@ -690,6 +729,7 @@ STR_SS7E_NICKNAME,{BLACK}Nickname: {GOLD}Beauty,{GOLD}准高速干线电力机�
 STR_SS8_NICKNAME,{BLACK}Nickname: {GOLD}Broom,{BLACK}昵称： {GOLD}扫把
 STR_SS9_NICKNAME,{BLACK}Nickname: {GOLD}Frog,{BLACK}昵称：{GOLD}青蛙
 STR_SS9G_NICKNAME,{BLACK}Nickname: {GOLD}Shochu,{BLACK}昵称：{GOLD}烧酒
+STR_DJ1_NICKNAME,{BLACK}Nickname: {GOLD}Swan,{BLACK}昵称：{GOLD}白天鹅
 STR_HXD1_NICKNAME,{BLACK}Nickname: {GOLD}Smurf,{BLACK}昵称：{GOLD}蓝精灵
 STR_HXD1B_NICKNAME,{BLACK}Nickname: {GOLD}River Crab,{BLACK}昵称：{GOLD}河蟹
 STR_HXD1D_NICKNAME,{BLACK}Nickname: {GOLD}Jujube,{BLACK}昵称：{GOLD}红枣
@@ -914,6 +954,7 @@ STR_CHANGSHA2,{ORANGE} - Changsha Passenger Depot,{ORANGE} - 长沙客运段
 STR_CHANGSHA_SHENZHEN,{ORANGE} - Changsha-Shenzhen Livery,{ORANGE} - 长沙-深圳涂装
 STR_ZHENGZHOU2,{ORANGE} - Zhengzhou Railway Bureau,{ORANGE} - 郑州铁路局
 STR_NENGYEQING48,"{BLACK} - {LTBLUE}""Little Bear of Neng-Yeqing"" {BLACK}Livery","{BLACK} - {LTBLUE}""能也庆的小熊"" {BLACK}涂装"
+STR_JIXI,{BLACK} - Jixi Coal Mine Livery,{BLACK} - 鸡西煤矿涂装
 # Decay,,
 STR_COMFORT_VERY_LOW,{BLACK}Comfort: {RED}Very low ({COMMA}),{BLACK}舒适度：{RED}极低（{COMMA}）
 STR_COMFORT_LOW,{BLACK}Comfort: {ORANGE}Low ({COMMA}),{BLACK}舒适度：{ORANGE}较低（{COMMA}）

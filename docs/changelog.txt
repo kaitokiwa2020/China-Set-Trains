@@ -5,6 +5,11 @@ China Set: Trains Changelog
 
 ## Initial-0-3 Updates
 
+0.3.7 (2025-08-28)
+--------------------
+Add: 6K, DJ1, HXD2D, DF10, GC160, GC220, JY600, G11, G70B, GF1M, GF70, GH40LK, GH65K, GHA70, GHA70A, GS, GQ80, GN60, BGW70
+Fix: Corrected a typo in the code: changed 'gl7' back to 'g17'
+
 0.3.5 (2025-06-01)
 --------------------
 Drop revision in version number
