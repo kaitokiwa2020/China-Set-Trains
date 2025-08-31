@@ -3,11 +3,19 @@ China Set: Trains Changelog
 
 # Initial-0 Updates
 
+## Initial-0-4 Updates
+0.4.0 (2025-09-02)
+--------------------
+Add Vehicles of South Manchuria Railways, which a railway company which was established by the Japanese during their invasion of China in WWII :
+    - Mikai Steam locomotive
+    - Ha 1 Coaches
+    - Yai Boxcars
+
 ## Initial-0-3 Updates
 
-0.3.7 (2025-08-27)
+0.3.7 (2025-08-31)
 --------------------
-Add: FXN3C, 18 Series Gen4, QJ, DFH1 Series, RW19T "Tanggula" Tourist Train, 8K, NY5, NY6, NY7, ND4, 21 Series, HXD1C
+Add: FXN3C, 18 Series Gen4, QJ, DFH1 Series, RW19T "Tanggula" Tourist Train, 8K, NY5, NY6, NY7, ND4, 21 Series, HXD1C, 6K, DJ1, HXD2D, DF10, GC160, GC220, JY600, G11, G70B, GF1M, GF70, GH40LK, GH65K, GHA70, GHA70A, GS, GQ80, GN60, BGW70, KD7
 Completed the CRH6 Series:
     - CRH6A (2 Doors) can't attach 1st-Seat MU Wagons now
     - The seat type of CRH6A (2 Doors) change to 2nd-Seat MU Wagon now, and its capacity change so on
@@ -18,6 +26,7 @@ Fix #66: luggage room in RZXL coaches with wrong electric visual effects
 Fix #67: RZXL25Z can't change livery normaly
 Fix #68: Power of NYJ1 "Baeihai"
 Fix #69：Add warning sprites when NDJ3 and NZJ1  in wrong consist
+Fix #70: Corrected a typo in the code: changed 'gl7' back to 'g17'
 Fix some text wrongs
 
 0.3.5 (2025-06-01)
