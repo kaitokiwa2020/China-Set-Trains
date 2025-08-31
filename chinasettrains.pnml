@@ -173,6 +173,8 @@
 #include "src/wagons/c64.pnml"
 #include "src/wagons/c70.pnml"
 #include "src/wagons/c80.pnml"
+
+#include "src/wagons/yai.pnml"
 #include "src/wagons/p1.pnml"
 #include "src/wagons/p50.pnml"
 #include "src/wagons/p60.pnml"
@@ -192,6 +194,7 @@
 #include "src/wagons/w5sk.pnml"
 #include "src/wagons/w6.pnml"
 #include "src/wagons/w6s.pnml"
+
 #include "src/wagons/g17.pnml"
 #include "src/wagons/g50.pnml"
 #include "src/wagons/g60.pnml"
@@ -200,19 +203,25 @@
 #include "src/wagons/gh70b.pnml"
 #include "src/wagons/gn70.pnml"
 #include "src/wagons/gn80.pnml"
+
+#include "src/wagons/n5.pnml"
 #include "src/wagons/n60.pnml"
 #include "src/wagons/nx17.pnml"
 #include "src/wagons/nx70a.pnml"
 #include "src/wagons/x2k.pnml"
+
 #include "src/wagons/jsq1.pnml"
 #include "src/wagons/jsq5.pnml"
 #include "src/wagons/jsq6.pnml"
+
 #include "src/wagons/b6.pnml"
 #include "src/wagons/b22.pnml"
 #include "src/wagons/bh1.pnml"
+
 #include "src/wagons/l70.pnml"
+
 #include "src/wagons/j5.pnml"
-#include "src/wagons/n5.pnml"
+
 
 // Another Function File
 #include "src/function2.pnml"
@@ -221,6 +230,7 @@
 #include "src/steam/mikai.pnml"
 #include "src/steam/jf1.pnml"
 #include "src/steam/sl6.pnml"
+#include "src/steam/kd7.pnml"
 #include "src/steam/sy.pnml"
 #include "src/steam/qj.pnml"
 

@@ -131,7 +131,7 @@ item (FEAT_TRAINS, qj) {
     }
     graphics {
         // Menu
-        additional_text:                string(STR_DESC_4, string(STR_FULL_NAME_QJ), string(STR_ALIASNAME_QJ), string(STR_LV_AVAILABLE_S ,string(STR_LIVERY_AVAILABLE), string(STR_LIVERY_4AXLE), string(STR_LIVERY_6AXLE)), string(STR_ELECTRICITY_SUPPLY_NO), string(STR_RELDEC_LOW, 12));
+        additional_text:                string(STR_DESC_5, string(STR_FULL_NAME_QJ), string(STR_ALIASNAME_QJ), string(STR_LV_AVAILABLE_S ,string(STR_LIVERY_AVAILABLE), string(STR_LIVERY_4AXLE), string(STR_LIVERY_6AXLE)), string(STR_ELECTRICITY_SUPPLY_NO), string(STR_RELDEC_LOW, 12));
         can_attach_wagon:               locowagon;
         cargo_subtype_text:             switch_qj_cargo_subtype;
 

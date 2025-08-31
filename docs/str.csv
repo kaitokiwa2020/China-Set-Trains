@@ -157,6 +157,7 @@ STR_NAME_C62,C62 (Gondola),C62 (敞车)
 STR_NAME_C64,C64 (Gondola),C64 (敞车)
 STR_NAME_C70,C70 (Gondola),C70 (敞车)
 STR_NAME_C80,C80 (Gondola),C80 (敞车)
+STR_NAME_YAI,Yai (Boxcar),ヤイ (棚车)
 STR_NAME_P1,P1 (Boxcar),P1 (棚车)
 STR_NAME_P50,P50 (Boxcar),P50 (棚车)
 STR_NAME_P60,P60 (Boxcar),P60 (棚车)
@@ -200,6 +201,7 @@ STR_NAME_J5,J5 (Livestock Wagon),J5 (家畜运输车)
 STR_NAME_MIKAI,Mikai (Steam),ミカイ (蒸汽)
 STR_NAME_JF1,JF1 (Steam),JF1 (蒸汽)
 STR_NAME_SL6,SL6 (Steam),SL6 (蒸汽)
+STR_NAME_KD7,KD7 (Steam),KD7 (蒸汽)
 STR_NAME_QJ,QJ (Steam),QJ (蒸汽)
 STR_NAME_SY,SY (Steam),SY (蒸汽)
 STR_NAME_DF,DF (Diesel),DF (内燃)
@@ -558,9 +560,7 @@ STR_FULL_NAME_HXD3,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3 Electric Locomotive,{B
 STR_FULL_NAME_HXD3C,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3C Electric Locomotive,{BLACK}全称：{GOLD}和谐3C型电力机车
 STR_FULL_NAME_HXD3D,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3D Electric Locomotive,{BLACK}全称：{GOLD}和谐3D型电力机车
 # Series Nmae,,
-STR_MIKA_SERIES,Mika Series (Steam Locomotive),ミカ系列 (蒸汽机车)
-STR_JF_SERIES,JieFang Series (Steam Locomotive),解放系列 (蒸汽机车)
-STR_SL_SERIES,ShengLi Series (Steam Locomotive),胜利系列 (蒸汽机车)
+STR_JF1_SERIES,JF1 (Steam Locomotive),解放1型 (蒸汽机车)
 STR_DF4_SERIES,DF4 Series (Diesel Locomotive),DF4系列 (内燃机车)
 STR_DF4D_SERIES,DF4D Series (Diesel Locomotive),DF4D系列 (内燃机车)
 STR_DF5_SERIES,DF5 Series (Diesel Locomotive),DF5系列 (内燃机车)
@@ -622,6 +622,7 @@ STR_GONDOLA,Gondola,敞车
 STR_REFRIGERATOR_WAGON,Refrigerator Wagon,保温车
 STR_VEHICLE_TRANSPORTER,Vehicle Transporter,汽车运输车
 # Import Regien,,
+STR_UNRRA_DONATE,Donated by UNRRA,联合国救济总署捐赠车型
 STR_US_IMPORT,Imported from United States,美国进口车型
 STR_DE_IMPORT,Imported from Germany,德国进口车型
 STR_DBR_IMPORT,Imported from West Germany,西德进口车型
@@ -793,6 +794,7 @@ STR_CR300BF_NICKNAME,"{BLACK}Nickname: {LTBLUE}""Blue Antidote"" {GOLD}(Official
 # Alias Name,,
 STR_ALIASNAME_JF1,"{BLACK}Alias Name: {GOLD}Mikai, MK1",{BLACK}曾用名：{GOLD}ミカイ，ㄇㄎ1型
 STR_ALIASNAME_SL6,"{BLACK}Alias Name: {GOLD}Pashiku, PX6",{BLACK}曾用名：{GOLD}パシク，ㄆㄒ6型
+STR_ALIASNAME_KD7,"{BLACK}Alias Name: {GOLD}SL7",{BLACK}曾用名：{GOLD}ㄙㄌ7型
 STR_ALIASNAME_QJ,"{BLACK}Alias Name: {GOLD}Heping(HP), Fandi(FD)",{BLACK}曾用名：{GOLD}和平型（HP），反帝型（FD）
 STR_ALIASNAME_DF,"{BLACK}Alias Name: {GOLD}Great Loong, ND",{BLACK}曾用名：{GOLD}巨龙，ND
 STR_ALIASNAME_SS1,{BLACK}Alias Name: {GOLD}6Y1,{BLACK}曾用名：{GOLD}6Y1

@@ -1,6 +1,8 @@
 sort (FEAT_TRAINS, [
+    mikai,
     jf1,
     sl6,
+    kd7,
     qj,
     sy,
     df,
@@ -283,6 +285,7 @@ sort (FEAT_TRAINS, [
     xl25t_sspe,
     uz25t,
     kd25t,
+    yai,
     p1,
     p50,
     p60,
