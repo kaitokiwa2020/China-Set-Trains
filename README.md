@@ -95,19 +95,22 @@ make
 Contributors (in alphabetical order):
 
 - Ahyangyi
+- asAn0
 - babel
-- ctx
+- ctx (Qipaoxian)
 - DF43110
 - EMB190
 - FJZer0ich
 - Haiyan
 - huanfeng
-- Jiaojie (CR400-BF-5033)
+- guangming
+- jackgqj
 - John Franklin
 - Mikhail
 - NACHN
 - nengyeqing
 - shentie106
+- SL-1230
 - WenSim
 - wuwu (kaitokiwa)
 

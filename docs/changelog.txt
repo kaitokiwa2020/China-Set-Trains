@@ -5,6 +5,35 @@ China Set: Trains Changelog
 
 ## Initial-0-3 Updates
 
+0.3.7 (2025-08-27)
+--------------------
+Add: FXN3C, 18 Series Gen4, QJ, DFH1 Series, RW19T "Tanggula" Tourist Train, 8K, NY5, NY6, NY7, ND4, 21 Series, HXD1C
+Completed the CRH6 Series:
+    - CRH6A (2 Doors) can't attach 1st-Seat MU Wagons now
+    - The seat type of CRH6A (2 Doors) change to 2nd-Seat MU Wagon now, and its capacity change so on
+    - Refurbish the sprites of CRH6A (2 Doors & 3 Doors), CRH6F
+    - Add: CRH6A (Comfort Version)
+Fix #65: CR400BF-0031/0057 can't run on wide guage 
+Fix #66: luggage room in RZXL coaches with wrong electric visual effects
+Fix #67: RZXL25Z can't change livery normaly
+Fix #68: Power of NYJ1 "Baeihai"
+Fix #69：Add warning sprites when NDJ3 and NZJ1  in wrong consist
+Fix some text wrongs
+
+0.3.5 (2025-06-01)
+--------------------
+Drop revision in version number
+Add: CRH1E-NG, CRH2E-NG, CR400BF-0031/0051, CRH380AM, DJF2, NYJ1, CRH6F-A, CRH3A-A, CJ6, CRH6A-A, GH70B, G70A
+Add Livery: CR200J-B Pan'gang, SRZ25B Ji'nan, 25B, CRH6F
+Fix #61: GN80 capacity errors
+Fix #62: cargo capacity of 25ML series
+Fix #63: sprite errors of SCA25B and SYW25B Zhengzhou livery
+Fix #64: CR200J original livery
+
+0.3.4.179 (15/02/2025)
+--------------------
+Fix #60: DF11G sprite misalignments
+
 0.3.4.178 (11/02/2025)
 --------------------
 Fix #56: Incorrect tractive effort coefficient of CRH2A/B in purchase menu

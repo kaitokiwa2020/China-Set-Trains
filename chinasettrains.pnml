@@ -33,7 +33,23 @@
 
 // Coaches
 
+#include "src/coaches/smr/ha1.pnml"
+
 #include "src/coaches/fixed-coaches/yz1.pnml"
+
+
+#include "src/coaches/18/yw18gen4.pnml"
+#include "src/coaches/18/rw18gen4.pnml"
+#include "src/coaches/18/rw19gen4.pnml"
+#include "src/coaches/18/xl18gen4.pnml"
+#include "src/coaches/18/ca18gen4.pnml"
+
+#include "src/coaches/21/yz21.pnml"
+#include "src/coaches/21/yw21.pnml"
+#include "src/coaches/21/rw21.pnml"
+#include "src/coaches/21/ca21.pnml"
+#include "src/coaches/21/xl21.pnml"
+
 #include "src/coaches/22/yz22.pnml"
 #include "src/coaches/22/rz22.pnml"
 #include "src/coaches/22/yw22.pnml"
@@ -130,6 +146,7 @@
 #include "src/coaches/25t/uz25t.pnml"
 #include "src/coaches/25t/kd25t.pnml"
 #include "src/coaches/25t/rw19t.pnml"
+#include "src/coaches/25t/rw19t_tanggula.pnml"
 
 #include "src/coaches/25z/rz125z.pnml"
 #include "src/coaches/25z/rz225z.pnml"
@@ -156,6 +173,8 @@
 #include "src/wagons/c64.pnml"
 #include "src/wagons/c70.pnml"
 #include "src/wagons/c80.pnml"
+
+#include "src/wagons/yai.pnml"
 #include "src/wagons/p1.pnml"
 #include "src/wagons/p50.pnml"
 #include "src/wagons/p60.pnml"
@@ -175,33 +194,45 @@
 #include "src/wagons/w5sk.pnml"
 #include "src/wagons/w6.pnml"
 #include "src/wagons/w6s.pnml"
+
 #include "src/wagons/g17.pnml"
 #include "src/wagons/g50.pnml"
 #include "src/wagons/g60.pnml"
 #include "src/wagons/g70.pnml"
+#include "src/wagons/g70a.pnml"
+#include "src/wagons/gh70b.pnml"
 #include "src/wagons/gn70.pnml"
 #include "src/wagons/gn80.pnml"
+
+#include "src/wagons/n5.pnml"
 #include "src/wagons/n60.pnml"
 #include "src/wagons/nx17.pnml"
 #include "src/wagons/nx70a.pnml"
 #include "src/wagons/x2k.pnml"
+
 #include "src/wagons/jsq1.pnml"
 #include "src/wagons/jsq5.pnml"
 #include "src/wagons/jsq6.pnml"
+
 #include "src/wagons/b6.pnml"
 #include "src/wagons/b22.pnml"
 #include "src/wagons/bh1.pnml"
+
 #include "src/wagons/l70.pnml"
+
 #include "src/wagons/j5.pnml"
-#include "src/wagons/n5.pnml"
+
 
 // Another Function File
 #include "src/function2.pnml"
 
 // Steam
+#include "src/steam/mikai.pnml"
 #include "src/steam/jf1.pnml"
 #include "src/steam/sl6.pnml"
+#include "src/steam/kd7.pnml"
 #include "src/steam/sy.pnml"
+#include "src/steam/qj.pnml"
 
 // Diesel
 #include "src/diesel/df.pnml"
@@ -233,8 +264,13 @@
 #include "src/diesel/df11z.pnml"
 #include "src/diesel/dfh3.pnml"
 #include "src/diesel/dfh7.pnml"
+#include "src/diesel/nd4.pnml"
 #include "src/diesel/nd5.pnml"
 #include "src/diesel/nj2.pnml"
+#include "src/diesel/ny5_freight.pnml"
+#include "src/diesel/ny5_passenger.pnml"
+#include "src/diesel/ny6.pnml"
+#include "src/diesel/ny7.pnml"
 #include "src/diesel/hxn3.pnml"
 #include "src/diesel/hxn3qz.pnml"
 #include "src/diesel/hxn5.pnml"
@@ -242,6 +278,10 @@
 #include "src/diesel/beijing_freight.pnml"
 #include "src/diesel/beijing_passenger.pnml"
 #include "src/diesel/beijing_special.pnml"
+#include "src/diesel/ny1.pnml"
+#include "src/diesel/dfh1_early.pnml"
+#include "src/diesel/dfh1_late.pnml"
+#include "src/diesel/fxn3c.pnml"
 
 // 25kV AC Electric
 #include "src/25-electric/ss1.pnml"
@@ -262,10 +302,12 @@
 #include "src/25-electric/ss8.pnml"
 #include "src/25-electric/ss9.pnml"
 #include "src/25-electric/ss9g.pnml"
+#include "src/25-electric/8k.pnml"
 #include "src/25-electric/6y2.pnml"
 #include "src/25-electric/hxd1.pnml"
 #include "src/25-electric/hxd11000.pnml"
 #include "src/25-electric/hxd1b.pnml"
+#include "src/25-electric/hxd1c.pnml"
 #include "src/25-electric/hxd1d.pnml"
 #include "src/25-electric/fxd1b.pnml"
 #include "src/25-electric/fxd1b1000.pnml"
@@ -283,6 +325,7 @@
 
 // DMU
 #include "src/dmu/nc3.pnml"
+#include "src/dmu/nyj1_beihai.pnml"
 #include "src/dmu/ndj3.pnml"
 #include "src/dmu/nzj1_xinshuguang.pnml"
 #include "src/dmu/nzj2_jinlun_unilaminar.pnml"
@@ -293,6 +336,7 @@
 #include "src/25-emu/djj1.pnml"
 #include "src/25-emu/djj2.pnml"
 #include "src/25-emu/djf1.pnml"
+#include "src/25-emu/djf2.pnml"
 #include "src/25-emu/djf3.pnml"
 #include "src/25-emu/cr200ja.pnml"
 #include "src/25-emu/cr200jal.pnml"
@@ -302,23 +346,29 @@
 #include "src/25-emu/crh1a.pnml"
 #include "src/25-emu/crh1b.pnml"
 #include "src/25-emu/crh1e.pnml"
+#include "src/25-emu/crh1eng.pnml"
 #include "src/25-emu/crh1aa.pnml"
 #include "src/25-emu/crh2a.pnml"
 #include "src/25-emu/crh2b.pnml"
 #include "src/25-emu/crh2c.pnml"
 #include "src/25-emu/crh2e.pnml"
+#include "src/25-emu/crh2eng.pnml"
 #include "src/25-emu/crh2els.pnml"
 #include "src/25-emu/crh2g.pnml"
 #include "src/25-emu/crh2a4020.pnml"
 #include "src/25-emu/crh3c.pnml"
 #include "src/25-emu/cj1.pnml"
+#include "src/25-emu/cj6.pnml"
 #include "src/25-emu/crh3a.pnml"
+#include "src/25-emu/crh3aa.pnml"
 #include "src/25-emu/crh5a.pnml"
 #include "src/25-emu/crh5e.pnml"
 #include "src/25-emu/crh5gjt.pnml"
 #include "src/25-emu/crh380a.pnml"
 #include "src/25-emu/crh380al.pnml"
+#include "src/25-emu/crh380al_2541.pnml"
 #include "src/25-emu/crh380aj.pnml"
+#include "src/25-emu/crh380am.pnml"
 #include "src/25-emu/crh380b.pnml"
 #include "src/25-emu/crh380bl.pnml"
 #include "src/25-emu/crh380cl.pnml"
@@ -331,14 +381,19 @@
 #include "src/25-emu/cr400afabz.pnml"
 #include "src/25-emu/cr400afae.pnml"
 #include "src/25-emu/cr400bf.pnml"
+#include "src/25-emu/cr400bf_0031.pnml"
+#include "src/25-emu/cr400bf_0051.pnml"
 #include "src/25-emu/cr400bfab.pnml"
 #include "src/25-emu/cr400bfc.pnml"
 #include "src/25-emu/cr400bfz.pnml"
 #include "src/25-emu/cr400bfabz.pnml"
 #include "src/25-emu/crh6a2.pnml"
+#include "src/25-emu/crh6a_comfort.pnml"
 #include "src/25-emu/crh6a3.pnml"
 #include "src/25-emu/crh6aa.pnml"
+#include "src/25-emu/crh6aacinova.pnml"
 #include "src/25-emu/crh6f.pnml"
+#include "src/25-emu/crh6fa.pnml"
 
 // 1.5kV DC EMU
 
