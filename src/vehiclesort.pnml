@@ -62,6 +62,9 @@ sort (FEAT_TRAINS, [
 /*     fxn3d, */
 /*     fxn3h, */
 /*     fxn5c, */
+    gc160,
+    gc220,
+    jy600,
     _6y2,
     _6k,
     _8k,

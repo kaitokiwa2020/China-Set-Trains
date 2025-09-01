@@ -4,30 +4,28 @@ China Set: Trains Changelog
 # Initial-0 Updates
 
 ## Initial-0-4 Updates
-0.4.0 (2025-09-02)
+
+0.4.0 (2025-09-01)
 --------------------
-Add Vehicles of South Manchuria Railways, which a railway company which was established by the Japanese during their invasion of China in WWII :
+Add vehicles of South Manchuria Railways, which was a railway company established by the Japanese during their invasion of China in WWII:
     - Mikai Steam locomotive
     - Ha 1 Coaches
     - Yai Boxcars
-
-## Initial-0-3 Updates
-
-0.3.7 (2025-08-31)
---------------------
-Add: FXN3C, 18 Series Gen4, QJ, DFH1 Series, RW19T "Tanggula" Tourist Train, 8K, NY5, NY6, NY7, ND4, 21 Series, HXD1C, 6K, DJ1, HXD2D, DF10, GC160, GC220, JY600, G11, G70B, GF1M, GF70, GH40LK, GH65K, GHA70, GHA70A, GS, GQ80, GN60, BGW70, KD7
+Add: QJ, KD7, DF10, NY5, NY6, NY7, ND4, FXN3C, DFH1 Series, GC160, GC220, JY600, 18 Series Gen4, 21 Series, RW19T "Tanggula" Excursion Trainset, 6K, 8K, DJ1, HXD1C, HXD2D, G11, G70B, GF1M, GF70, GH40LK, GH65K, GHA70, GHA70A, GS, GQ80, GN60, BGW70
 Completed the CRH6 Series:
     - CRH6A (2 Doors) can't attach 1st-Seat MU Wagons now
-    - The seat type of CRH6A (2 Doors) change to 2nd-Seat MU Wagon now, and its capacity change so on
+    - The seat type of CRH6A (2 Doors) has been changed to 2nd-Seat MU Wagon now, with its capacity change
     - Refurbish the sprites of CRH6A (2 Doors & 3 Doors), CRH6F
     - Add: CRH6A (Comfort Version)
-Fix #65: CR400BF-0031/0057 can't run on wide guage 
-Fix #66: luggage room in RZXL coaches with wrong electric visual effects
-Fix #67: RZXL25Z can't change livery normaly
-Fix #68: Power of NYJ1 "Baeihai"
-Fix #69：Add warning sprites when NDJ3 and NZJ1  in wrong consist
-Fix #70: Corrected a typo in the code: changed 'gl7' back to 'g17'
-Fix some text wrongs
+Fix: CR400BF-0031/0057 can't run on 1520mm gauge 
+Fix: luggage room in RZXL coaches with wrong electric visual effects
+Fix: RZXL25Z can't change livery normally
+Fix: Power of NYJ1 "Beihai"
+Fix: add warning sprites when NDJ3 and NZJ1 are in wrong consist
+Fix: Corrected a typo in the code: changed 'gl7' back to 'g17'
+Fix: some wrong or misspelt language strings
+
+## Initial-0-3 Updates
 
 0.3.5 (2025-06-01)
 --------------------

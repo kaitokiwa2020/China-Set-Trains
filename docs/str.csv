@@ -1,4 +1,4 @@
-﻿# STRING,ENGLISH,SIMPLIFIED CHINESE
+# STRING,ENGLISH,SIMPLIFIED CHINESE
 STR_GRF_NAME,China Set: Trains {VERSION_STRING},中国包：火车 {VERSION_STRING}
 STR_GRF_DESC,The Train sector of the China Set of OpenTTD.,OpenTTD中国包的火车部分。
 STR_GRF_URL,https://www.tt-forums.net/viewtopic.php?t=91092,
@@ -265,7 +265,10 @@ STR_NAME_HXN3QZ,HXN3 (Diesel) (Plateau Type),HXN3 (内燃) (高原型)
 STR_NAME_HXN5,HXN5 (Diesel),HXN5 (内燃)
 STR_NAME_HXN5B,HXN5B (Diesel),HXN5B (内燃)
 STR_NAME_FXN3C,FXN3C (Diesel),FXN3C (内燃)
-STR_NAME_FXN4C,FXN4C (Diesel),FXN5C (内燃)
+STR_NAME_FXN5C,FXN5C (Diesel),FXN5C (内燃)
+STR_NAME_GC160,GC160 (Diesel Railbus),GC160 (内燃轨道车)
+STR_NAME_GC220,GC220 (Diesel Railbus),GC220 (内燃轨道车)
+STR_NAME_JY600,JY600 (Diesel Shunter),JY600 (内燃) (调车用)
 STR_NAME_SS1,SS1 (Electric),SS1 (电力)
 STR_NAME_SS3,SS3 (Electric),SS3 (电力)
 STR_NAME_SS3B,SS3B (Electric),SS3B (电力)
@@ -595,6 +598,18 @@ STR_FULL_NAME_FXD2B1000,{BLACK}FULLNAME: {GOLD}Fuxing/Revival 2B Electric Locomo
 STR_FULL_NAME_HXD3,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3 Electric Locomotive,{BLACK}全称：{GOLD}和谐3型电力机车
 STR_FULL_NAME_HXD3C,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3C Electric Locomotive,{BLACK}全称：{GOLD}和谐3C型电力机车
 STR_FULL_NAME_HXD3D,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3D Electric Locomotive,{BLACK}全称：{GOLD}和谐3D型电力机车
+STR_FULL_NAME_G11,{BLACK}FULLNAME: G11-type{GOLD} Acid-Alkali {BLACK}Tank Wagon,{BLACK}全称：G11型{GOLD}酸碱{BLACK}罐车
+STR_FULL_NAME_G70B,{BLACK}FULLNAME: G70B-type{GOLD} Light Oil {BLACK}Tank Wagon,{BLACK}全称：G70B型低重心{GOLD}轻油{BLACK}罐车
+STR_FULL_NAME_GF1M,{BLACK}FULLNAME: GF1M-type{GOLD} Fly Ash {BLACK}Tank Wagon,{BLACK}全称：GF1M型{GOLD}粉煤灰{BLACK}罐车
+STR_FULL_NAME_GF70,{BLACK}FULLNAME: GF70-type{GOLD} Alumina Powder {BLACK}Tank Wagon,{BLACK}全称：GF70型{GOLD}氧化铝粉{BLACK}罐车
+STR_FULL_NAME_GH40LK,{BLACK}FULLNAME: GH40LK-type{GOLD} Concentrated Nitric Acid {BLACK}Tank Wagon,{BLACK}全称：GH40LK型{GOLD}浓硝酸{BLACK}罐车
+STR_FULL_NAME_GH65K,{BLACK}FULLNAME: GH65K-type{GOLD} Yellow Phosphorus {BLACK}Tank Wagon,{BLACK}全称：GH65K型{GOLD}黄磷{BLACK}罐车
+STR_FULL_NAME_GHA70,{BLACK}FULLNAME: GHA70-type{GOLD} Alcohol {BLACK}Tank Wagon,{BLACK}全称：GHA70型{GOLD}醇类{BLACK}罐车
+STR_FULL_NAME_GHA70A,{BLACK}FULLNAME: GHA70A-type{GOLD} Para-xylene {BLACK}Tank Wagon,{BLACK}全称：GHA70A型{GOLD}对二甲苯{BLACK}罐车
+STR_FULL_NAME_GS,{BLACK}FULLNAME: GS-type{GOLD} Edible Oil {BLACK}Tank Wagon,{BLACK}全称：GS型{GOLD}食用油{BLACK}罐车
+STR_FULL_NAME_GQ80,{BLACK}FULLNAME: GQ80-type{GOLD} Light Oil {BLACK}Tank Wagon,{BLACK}全称：GQ80型{GOLD}轻油{BLACK}罐车
+STR_FULL_NAME_GN60,{BLACK}FULLNAME: GN60-type{GOLD} Heavy Oil {BLACK}Tank Wagon,{BLACK}全称：GN60型{GOLD}粘油{BLACK}罐车
+STR_FULL_NAME_BGW70,{BLACK}FULLNAME: BGW70-type{GOLD} Edible Oil {BLACK}Tank Wagon,{BLACK}全称：BGW70型{GOLD}食用油{BLACK}罐车
 # Series Nmae,,
 STR_JF1_SERIES,JF1 (Steam Locomotive),解放1型 (蒸汽机车)
 STR_DF4_SERIES,DF4 Series (Diesel Locomotive),DF4系列 (内燃机车)
