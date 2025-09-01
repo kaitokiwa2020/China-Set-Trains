@@ -295,9 +295,6 @@
 #include "src/diesel/hxn5.pnml"
 #include "src/diesel/hxn5b.pnml"
 #include "src/diesel/fxn3c.pnml"
-#include "src/diesel/beijing_freight.pnml"
-#include "src/diesel/beijing_passenger.pnml"
-#include "src/diesel/beijing_special.pnml"
 
 #include "src/diesel/gc160.pnml"
 #include "src/diesel/gc220.pnml"

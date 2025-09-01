@@ -308,9 +308,6 @@ STR_NAME_FXD1B1000,FXD1B-1000 (Electric),FXD1B-1000 (电力)
 STR_NAME_FXD2B,FXD2B (Electric),FXD2B (电力)
 STR_NAME_FXD2B1000,FXD2B-1000 (Electric),FXD2B-1000 (电力)
 STR_NAME_CHA1C,CHA1C (Hybrid),CHA1C (混合动力)
-STR_NAME_GC160,GC160 (Diesel Railbus),GC160 (内燃轨道车)
-STR_NAME_GC220,GC220 (Diesel Railbus),GC220 (内燃轨道车)
-STR_NAME_JY600,JY600 (Diesel Shunter),JY600 (内燃) (调车用)
 STR_NAME_NC3,NC3 (DMU),NC3 (内燃动车)
 STR_NAME_NZJ1_XINSHUGUANG,"NZJ1 ""Xinshuguang"" (DMU)","NZJ1 ""新曙光号"" (内燃动车)"
 STR_NAME_NZJ2_JINLUN_UNILAMINAR,"NZJ2 ""Jinlun"" (UNILAMINAR) (DMU)","NZJ2 ""金轮号"" (单层) (内燃动车)"
@@ -392,28 +389,28 @@ STR_NAME_WYMUW,1st-Class Sleeper (WY) MU Wagon,动车组一等卧铺车厢
 STR_NAME_WGMUW,Top-Class Sleeper (WG) MU Wagon,动车组高级软卧车厢
 STR_NAME_KYMUW,Cargo MU Wagon,动车组货运车厢
 # Full Name,,
-STR_FULL_NAME_YZ1,{BLACK}FULLNAME: {GOLD}1 Type Hard Seat Passenger Coach,{BLACK}全称：{GOLD}1型硬座客车
+STR_FULL_NAME_YZ1,{BLACK}FULLNAME: {GOLD}Type 1 Hard Seat Passenger Coach,{BLACK}全称：{GOLD}1型硬座客车
 STR_FULL_NAME_YW18,{BLACK}FULLNAME: {GOLD}Type 18 Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}18型硬卧客车
 STR_FULL_NAME_RW18,{BLACK}FULLNAME: {GOLD}Type 18 Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}18型软卧客车
 STR_FULL_NAME_CA18,{BLACK}FULLNAME: {GOLD}Type 18 Restaurant Car,{BLACK}全称：{GOLD}18型餐车
-STR_FULL_NAME_RW19,{BLACK}FULLNAME: {GOLD}Type 19 Advanced Soft Sleeper Passenger Coach ,{BLACK}全称：{GOLD}19型高级软卧客车
+STR_FULL_NAME_RW19,{BLACK}FULLNAME: {GOLD}Type 19 Luxury Soft Sleeper Passenger Coach ,{BLACK}全称：{GOLD}19型高级软卧客车
 STR_FULL_NAME_YZ21,{BLACK}FULLNAME: {GOLD}Type 21 Hard Seat Passenger Coach,{BLACK}全称：{GOLD}21型硬座客车
 STR_FULL_NAME_YW21,{BLACK}FULLNAME: {GOLD}Type 21 Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}21型硬卧客车
 STR_FULL_NAME_RW21,{BLACK}FULLNAME: {GOLD}Type 21 Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}21型软卧客车
 STR_FULL_NAME_CA21,{BLACK}FULLNAME: {GOLD}Type 21 Restaurant Car,{BLACK}全称：{GOLD}21型餐车
-STR_FULL_NAME_YZ22,{BLACK}FULLNAME: {GOLD}22 Type Hard Seat Passenger Coach,{BLACK}全称：{GOLD}22型硬座客车
-STR_FULL_NAME_RZ22,{BLACK}FULLNAME: {GOLD}22 Type Soft Seat Passenger Coach,{BLACK}全称：{GOLD}22型软座客车
-STR_FULL_NAME_YW22,{BLACK}FULLNAME: {GOLD}22 Type Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}22型硬卧客车
-STR_FULL_NAME_RW22,{BLACK}FULLNAME: {GOLD}22 Type Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}22型软卧客车
-STR_FULL_NAME_YZ22AIRCON,{BLACK}FULLNAME: {GOLD}22 Type Hard Seat Passenger Coach (Air-conditioned),{BLACK}全称：{GOLD}22型硬座客车 (加装空调)
-STR_FULL_NAME_RZ22AIRCON,{BLACK}FULLNAME: {GOLD}22 Type Soft Seat Passenger Coach (Air-conditioned),{BLACK}全称：{GOLD}22型软座客车 (加装空调)
-STR_FULL_NAME_YW22AIRCON,{BLACK}FULLNAME: {GOLD}22 Type Hard Sleeper Passenger Coach (Air-conditioned),{BLACK}全称：{GOLD}22型硬卧客车 (加装空调)
-STR_FULL_NAME_RW22AIRCON,{BLACK}FULLNAME: {GOLD}22 Type Soft Sleeper Passenger Coach (Air-conditioned),{BLACK}全称：{GOLD}22型软卧客车 (加装空调)
-STR_FULL_NAME_CA23,{BLACK}FULLNAME: {GOLD}23 Type Restaurant Car,{BLACK}全称：{GOLD}23型餐车
-STR_FULL_NAME_CA23AIRCON,{BLACK}FULLNAME: {GOLD}23 Type Restaurant Car (Air-conditioned),{BLACK}全称：{GOLD}23型餐车 (加装空调)
-STR_FULL_NAME_YZ22B,{BLACK}FULLNAME: {GOLD}22B Type Hard Seat Passenger Coach,{BLACK}全称：{GOLD}22B型硬座客车
-STR_FULL_NAME_YW22B,{BLACK}FULLNAME: {GOLD}22B Type Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}22B型硬卧客车
-STR_FULL_NAME_RW22B,{BLACK}FULLNAME: {GOLD}22B Type Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}22B型软卧客车
+STR_FULL_NAME_YZ22,{BLACK}FULLNAME: {GOLD}Type 22 Hard Seat Passenger Coach,{BLACK}全称：{GOLD}22型硬座客车
+STR_FULL_NAME_RZ22,{BLACK}FULLNAME: {GOLD}Type 22 Soft Seat Passenger Coach,{BLACK}全称：{GOLD}22型软座客车
+STR_FULL_NAME_YW22,{BLACK}FULLNAME: {GOLD}Type 22 Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}22型硬卧客车
+STR_FULL_NAME_RW22,{BLACK}FULLNAME: {GOLD}Type 22 Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}22型软卧客车
+STR_FULL_NAME_YZ22AIRCON,{BLACK}FULLNAME: {GOLD}Type 22 Hard Seat Passenger Coach (Air-conditioned),{BLACK}全称：{GOLD}22型硬座客车 (加装空调)
+STR_FULL_NAME_RZ22AIRCON,{BLACK}FULLNAME: {GOLD}Type 22 Soft Seat Passenger Coach (Air-conditioned),{BLACK}全称：{GOLD}22型软座客车 (加装空调)
+STR_FULL_NAME_YW22AIRCON,{BLACK}FULLNAME: {GOLD}Type 22 Hard Sleeper Passenger Coach (Air-conditioned),{BLACK}全称：{GOLD}22型硬卧客车 (加装空调)
+STR_FULL_NAME_RW22AIRCON,{BLACK}FULLNAME: {GOLD}Type 22 Soft Sleeper Passenger Coach (Air-conditioned),{BLACK}全称：{GOLD}22型软卧客车 (加装空调)
+STR_FULL_NAME_CA23,{BLACK}FULLNAME: {GOLD}Type 23 Restaurant Car,{BLACK}全称：{GOLD}23型餐车
+STR_FULL_NAME_CA23AIRCON,{BLACK}FULLNAME: {GOLD}Type 23 Restaurant Car (Air-conditioned),{BLACK}全称：{GOLD}23型餐车 (加装空调)
+STR_FULL_NAME_YZ22B,{BLACK}FULLNAME: {GOLD}Type 22B Hard Seat Passenger Coach,{BLACK}全称：{GOLD}22B型硬座客车
+STR_FULL_NAME_YW22B,{BLACK}FULLNAME: {GOLD}Type 22B Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}22B型硬卧客车
+STR_FULL_NAME_RW22B,{BLACK}FULLNAME: {GOLD}Type 22B Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}22B型软卧客车
 STR_FULL_NAME_YZ25ML,{BLACK}FULLNAME: {GOLD}Type 25 Mainline Hard Seat Passenger Coach,{BLACK}全称：{GOLD}干线25型硬座客车
 STR_FULL_NAME_RZ25ML,{BLACK}FULLNAME: {GOLD}Type 25 Mainline Soft Seat Passenger Coach,{BLACK}全称：{GOLD}干线25型软座客车
 STR_FULL_NAME_YW25ML,{BLACK}FULLNAME: {GOLD}Type 25 Mainline Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}干线25型硬卧客车
@@ -428,81 +425,81 @@ STR_FULL_NAME_SYZ25,{BLACK}FULLNAME: {GOLD}Type 25 Double Decker Hard Seat Passe
 STR_FULL_NAME_SRZ25,{BLACK}FULLNAME: {GOLD}Type 25 Double Decker Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25型双层软座客车
 STR_FULL_NAME_SYW25,{BLACK}FULLNAME: {GOLD}Type 25 Double Decker Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25型双层硬座客车
 STR_FULL_NAME_SRW25,{BLACK}FULLNAME: {GOLD}Type 25 Double Decker Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25型双层软座客车
-STR_FULL_NAME_YZ25B,{BLACK}FULLNAME: {GOLD}25m Standard Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25米标准型硬座客车
-STR_FULL_NAME_RZ25B,{BLACK}FULLNAME: {GOLD}25m Standard Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米标准型软座客车
-STR_FULL_NAME_YW25B,{BLACK}FULLNAME: {GOLD}25m Standard Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米标准型硬卧客车
-STR_FULL_NAME_RW25B,{BLACK}FULLNAME: {GOLD}25m Standard Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米标准型软卧客车
-STR_FULL_NAME_CA25B,{BLACK}FULLNAME: {GOLD}25m Standard Restaurant Car,{BLACK}全称：{GOLD}25米标准型餐车
-STR_FULL_NAME_SYZ25B,{BLACK}FULLNAME: {GOLD}25m Standard Double Decker Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25米标准型双层硬座客车
-STR_FULL_NAME_SRZ25B,{BLACK}FULLNAME: {GOLD}25m Standard Double Decker Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米标准型双层软座客车
-STR_FULL_NAME_SYW25B,{BLACK}FULLNAME: {GOLD}25m Standard Double Decker Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米标准型双层硬卧客车
-STR_FULL_NAME_SRW25B,{BLACK}FULLNAME: {GOLD}25m Standard Double Decker Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米标准型双层软卧客车
+STR_FULL_NAME_YZ25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25系标准型硬座客车
+STR_FULL_NAME_RZ25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系标准型软座客车
+STR_FULL_NAME_YW25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系标准型硬卧客车
+STR_FULL_NAME_RW25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系标准型软卧客车
+STR_FULL_NAME_CA25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Restaurant Car,{BLACK}全称：{GOLD}25系标准型餐车
+STR_FULL_NAME_SYZ25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Double Decker Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25系标准型双层硬座客车
+STR_FULL_NAME_SRZ25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Double Decker Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系标准型双层软座客车
+STR_FULL_NAME_SYW25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Double Decker Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系标准型双层硬卧客车
+STR_FULL_NAME_SRW25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Double Decker Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系标准型双层软卧客车
 STR_FULL_NAME_SCA25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Double Decker Restaurant Car,{BLACK}全称：{GOLD}25标准型双层软卧客车
 STR_FULL_NAME_RZ225C,{BLACK}FULLNAME: {GOLD}Type 25 Second-Class Passenger Coache Type C,{BLACK}全称：{GOLD}25C型二等软座客车
 STR_FULL_NAME_RZ125C,{BLACK}FULLNAME: {GOLD}Type 25 First-Class Passenger Coache Type C,{BLACK}全称：{GOLD}25C型一等软座客车
-STR_FULL_NAME_CA25C,{BLACK}FULLNAME: {GOLD}Type 25 Restaurant Car Type C,{BLACK}全称：{GOLD}25C型餐车
-STR_FULL_NAME_YZ25G,{BLACK}FULLNAME: {GOLD}25m Improved Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25米改进型硬座客车
-STR_FULL_NAME_RZ25G,{BLACK}FULLNAME: {GOLD}25m Improved Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米改进型软座客车
-STR_FULL_NAME_RZ225G,{BLACK}FULLNAME: {GOLD}25m Improved Second-Class Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米改进型二等软座客车
-STR_FULL_NAME_RZ125G,{BLACK}FULLNAME: {GOLD}25m Improved First-Class Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米改进型一等软座客车
-STR_FULL_NAME_RZT25G,{BLACK}FULLNAME: {GOLD}25m Improved Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米改进型特等软座客车
-STR_FULL_NAME_YW25G,{BLACK}FULLNAME: {GOLD}25m Improved Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米改进型硬卧客车
-STR_FULL_NAME_RW25G,{BLACK}FULLNAME: {GOLD}25m Improved Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米改进型软卧客车
-STR_FULL_NAME_CA25G,{BLACK}FULLNAME: {GOLD}25m Improved Restaurant Car,{BLACK}全称：{GOLD}25米改进型餐车
-STR_FULL_NAME_RW19K,{BLACK}FULLNAME: {GOLD}19K Type Soft Sleeper Passenger Coach (2 berth),{BLACK}全称：{GOLD}19K型高级软卧客车
-STR_FULL_NAME_YZ25K,{BLACK}FULLNAME: {GOLD}25m Rapid Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25米快速型硬座客车
-STR_FULL_NAME_RZ25K,{BLACK}FULLNAME: {GOLD}25m Rapid Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米快速型软座客车
-STR_FULL_NAME_YW25K,{BLACK}FULLNAME: {GOLD}25m Rapid Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米快速型硬卧客车
-STR_FULL_NAME_RW25K,{BLACK}FULLNAME: {GOLD}25m Rapid Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米快速型软卧客车
-STR_FULL_NAME_SYZ25K,{BLACK}FULLNAME: {GOLD}25m Rapid Double Decker Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25米快速型双层硬座客车
-STR_FULL_NAME_SRZ25K,{BLACK}FULLNAME: {GOLD}25m Rapid Double Decker Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米快速型双层软座客车
-STR_FULL_NAME_SYW25K,{BLACK}FULLNAME: {GOLD}25m Rapid Double Decker Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米快速型双层硬卧客车
-STR_FULL_NAME_SRW25K,{BLACK}FULLNAME: {GOLD}25m Rapid Double Decker Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米快速型双层软卧客车
-STR_FULL_NAME_SCA25K,{BLACK}FULLNAME: {GOLD}25m Rapid Double Decker Restaurant Car,{BLACK}全称：{GOLD}25米快速型双层餐车
-STR_FULL_NAME_CA25K,{BLACK}FULLNAME: {GOLD}25m Rapid Improved Restaurant Car,{BLACK}全称：{GOLD}25米快速型餐车
-STR_FULL_NAME_RW19T,{BLACK}FULLNAME: {GOLD}19T Type Soft Sleeper Passenger Coach (2 berth),{BLACK}全称：{GOLD}19T型高级软卧客车
-STR_FULL_NAME_YZ25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25米提速型硬座客车
-STR_FULL_NAME_RZ25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25米提速型软座客车
-STR_FULL_NAME_RZXL25T,{BLACK}FULLNAME: {GOLD}26m Accelerated Soft Seat Passenger Luggage Coach,{BLACK}全称：{GOLD}25米提速型软座行李合造车
-STR_FULL_NAME_YW25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米提速型硬卧客车
-STR_FULL_NAME_RW25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25米提速型软卧客车
-STR_FULL_NAME_YZ31,{BLACK}FULLNAME: {GOLD}31 Type Hard Seat Passenger Coach,{BLACK}全称：{GOLD}31型硬座客车
-STR_FULL_NAME_CA25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Restaurant Car,{BLACK}全称：{GOLD}25米提速型餐车
+STR_FULL_NAME_CA25C,{BLACK}FULLNAME: {GOLD}Type 25C Restaurant Car,{BLACK}全称：{GOLD}25C型餐车
+STR_FULL_NAME_YZ25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25系改进型硬座客车
+STR_FULL_NAME_RZ25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系改进型软座客车
+STR_FULL_NAME_RZ225G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Second-Class Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系改进型二等软座客车
+STR_FULL_NAME_RZ125G,{BLACK}FULLNAME: {GOLD}Type 25 Improved First-Class Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系改进型一等软座客车
+STR_FULL_NAME_RZT25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系改进型特等软座客车
+STR_FULL_NAME_YW25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系改进型硬卧客车
+STR_FULL_NAME_RW25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系改进型软卧客车
+STR_FULL_NAME_CA25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Restaurant Car,{BLACK}全称：{GOLD}25系改进型餐车
+STR_FULL_NAME_RW19K,{BLACK}FULLNAME: {GOLD}Type 19K Soft Sleeper Passenger Coach (2 berth),{BLACK}全称：{GOLD}19K型高级软卧客车
+STR_FULL_NAME_YZ25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25系快速型硬座客车
+STR_FULL_NAME_RZ25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系快速型软座客车
+STR_FULL_NAME_YW25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系快速型硬卧客车
+STR_FULL_NAME_RW25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系快速型软卧客车
+STR_FULL_NAME_SYZ25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Double Decker Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25系快速型双层硬座客车
+STR_FULL_NAME_SRZ25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Double Decker Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系快速型双层软座客车
+STR_FULL_NAME_SYW25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Double Decker Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系快速型双层硬卧客车
+STR_FULL_NAME_SRW25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Double Decker Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系快速型双层软卧客车
+STR_FULL_NAME_SCA25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Double Decker Restaurant Car,{BLACK}全称：{GOLD}25系快速型双层餐车
+STR_FULL_NAME_CA25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Improved Restaurant Car,{BLACK}全称：{GOLD}25系快速型餐车
+STR_FULL_NAME_RW19T,{BLACK}FULLNAME: {GOLD}Type 19T Soft Sleeper Passenger Coach (2 berth),{BLACK}全称：{GOLD}19T型高级软卧客车
+STR_FULL_NAME_YZ25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Hard Seat Passenger Coach,{BLACK}全称：{GOLD}25系提速型硬座客车
+STR_FULL_NAME_RZ25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Soft Seat Passenger Coach,{BLACK}全称：{GOLD}25系提速型软座客车
+STR_FULL_NAME_RZXL25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Soft Seat Passenger Luggage Coach,{BLACK}全称：{GOLD}25系提速型软座行李合造车
+STR_FULL_NAME_YW25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Hard Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系提速型硬卧客车
+STR_FULL_NAME_RW25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Soft Sleeper Passenger Coach,{BLACK}全称：{GOLD}25系提速型软卧客车
+STR_FULL_NAME_YZ31,{BLACK}FULLNAME: {GOLD}Type 31 Hard Seat Passenger Coach,{BLACK}全称：{GOLD}31型硬座客车
+STR_FULL_NAME_CA25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Restaurant Car,{BLACK}全称：{GOLD}25系提速型餐车
 STR_FULL_NAME_XL18,{BLACK}FULLNAME: {GOLD}Type 18 Luggage Car,{BLACK}全称：{GOLD}18型行李车
 STR_FULL_NAME_XL21,{BLACK}FULLNAME: {GOLD}Type 21 Luggage Car,{BLACK}全称：{GOLD}21型行李车
-STR_FULL_NAME_XL22,{BLACK}FULLNAME: {GOLD}22 Type Luggage Car,{BLACK}全称：{GOLD}22型行李车
+STR_FULL_NAME_XL22,{BLACK}FULLNAME: {GOLD}Type 22 Luggage Car,{BLACK}全称：{GOLD}22型行李车
 STR_FULL_NAME_XL25ML,{BLACK}FULLNAME: {GOLD}Type 25 Mainline Luggage Car,{BLACK}全称：{GOLD}干线25型行李车
-STR_FULL_NAME_XL25B,{BLACK}FULLNAME: {GOLD}25m Standard Luggage Car,{BLACK}全称：{GOLD}25米标准型行李车
-STR_FULL_NAME_XL25G,{BLACK}FULLNAME: {GOLD}25m Improved Luggage Car,{BLACK}全称：{GOLD}25米改进型行李车
-STR_FULL_NAME_XL25K,{BLACK}FULLNAME: {GOLD}25m Rapid Luggage Car,{BLACK}全称：{GOLD}25米快速型行李车
-STR_FULL_NAME_XL25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Luggage Car,{BLACK}全称：{GOLD}25米提速型行李车
+STR_FULL_NAME_XL25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Luggage Car,{BLACK}全称：{GOLD}25系标准型行李车
+STR_FULL_NAME_XL25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Luggage Car,{BLACK}全称：{GOLD}25系改进型行李车
+STR_FULL_NAME_XL25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Luggage Car,{BLACK}全称：{GOLD}25系快速型行李车
+STR_FULL_NAME_XL25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Luggage Car,{BLACK}全称：{GOLD}25系提速型行李车
 STR_FULL_NAME_UZ22,{BLACK}FULLNAME: {GOLD}22 Type Railway Post Office,{BLACK}全称：{GOLD}22型邮政车
-STR_FULL_NAME_UZ25B,{BLACK}FULLNAME: {GOLD}25m Standard Railway Post Office,{BLACK}全称：{GOLD}25米标准型邮政车
-STR_FULL_NAME_UZ25G,{BLACK}FULLNAME: {GOLD}25m Improved Railway Post Office,{BLACK}全称：{GOLD}25米改进型邮政车
-STR_FULL_NAME_UZ25K,{BLACK}FULLNAME: {GOLD}25m Rapid Railway Post Office,{BLACK}全称：{GOLD}25米快速型邮政车
-STR_FULL_NAME_UZ25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Railway Post Office,{BLACK}全称：{GOLD}25米提速型邮政车
+STR_FULL_NAME_UZ25B,{BLACK}FULLNAME: {GOLD}Type 25 Standard Railway Post Office,{BLACK}全称：{GOLD}25系标准型邮政车
+STR_FULL_NAME_UZ25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Railway Post Office,{BLACK}全称：{GOLD}25系改进型邮政车
+STR_FULL_NAME_UZ25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Railway Post Office,{BLACK}全称：{GOLD}25系快速型邮政车
+STR_FULL_NAME_UZ25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Railway Post Office,{BLACK}全称：{GOLD}25系提速型邮政车
 STR_FULL_NAME_TZ,{BLACK}FULLNAME: {GOLD}Special Purpose Car,{BLACK}全称：{GOLD}特种车
 STR_FULL_NAME_TZ2,{BLACK}FULLNAME: {GOLD}Special Purpose Car Type 2,{BLACK}全称：{GOLD}2型特种车
 STR_FULL_NAME_KD25SM,{BLACK}FULLNAME: {GOLD}Type 25 Sanshui-Maoming Railway Air Conditioner Generator Car ,{BLACK}全称：{GOLD}25型三茂铁路空调发电车
 STR_FULL_NAME_KD25C,{BLACK}FULLNAME: {GOLD}Type 25 Air Conditioner Generator Car Type C,{BLACK}全称：{GOLD}25C型空调发电车
-STR_FULL_NAME_KD25G,{BLACK}FULLNAME: {GOLD}25m Improved Air Conditioner Generator Car,{BLACK}全称：{GOLD}25米改进型空调发电车
-STR_FULL_NAME_KD25K,{BLACK}FULLNAME: {GOLD}25m Rapid Air Conditioner Generator Car,{BLACK}全称：{GOLD}25米快速型空调发电车
-STR_FULL_NAME_KD25Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed Air Conditioner Generator Car,{BLACK}全称：{GOLD}25米准高速空调发电车
-STR_FULL_NAME_KD25T,{BLACK}FULLNAME: {GOLD}25m Accelerated Air Conditioner Generator Car,{BLACK}全称：{GOLD}25米提速型空调发电车
-STR_FULL_NAME_RZ125Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed 1st-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25米准高速一等软座客车
-STR_FULL_NAME_RZ225Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed 2nd-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25米准高速二等软座客车
-STR_FULL_NAME_RZT25Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed Top-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25米准高速特等软座客车
-STR_FULL_NAME_RZXL25Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed Soft Seat Passenger Coach & Luggage Car,{BLACK}全称：{GOLD}25米准高速软座行李合造车
-STR_FULL_NAME_CA25Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed Restaurant Car,{BLACK}全称：{GOLD}25米准高速餐车
-STR_FULL_NAME_SRZ125Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed Double Decker 1st-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25米准高速双层一等软座客车
-STR_FULL_NAME_SRZ225Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed Double Decker 2nd-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25米准高速双层二等软座客车
-STR_FULL_NAME_SCA25Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed Double Decker Restaurant Car,{BLACK}全称：{GOLD}25米准高速双层餐车
-STR_FULL_NAME_SRZXL25Z,{BLACK}FULLNAME: {GOLD}25m Semi-Highspeed Double Decker 1st-Class Seat Passenger Coach & Luggage Car,{BLACK}全称：{GOLD}25米准高速双层一等软座行李合造车
-STR_FULL_NAME_YZ25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}25m Unilaminar Hard Seat Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25米单层硬座拖车
-STR_FULL_NAME_YW25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}25m Unilaminar Hard Sleeper Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25米单层硬卧拖车
-STR_FULL_NAME_RW25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}25m Unilaminar Soft Sleeper Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25米单层软卧拖车
-STR_FULL_NAME_SYZ25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}25m Double Decker Hard Seat Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25米双层硬座拖车
-STR_FULL_NAME_SRZ25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}25m Double Decker Hard Seat Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25米双层软座拖车
+STR_FULL_NAME_KD25G,{BLACK}FULLNAME: {GOLD}Type 25 Improved Air Conditioner Generator Car,{BLACK}全称：{GOLD}25系改进型空调发电车
+STR_FULL_NAME_KD25K,{BLACK}FULLNAME: {GOLD}Type 25 Rapid Air Conditioner Generator Car,{BLACK}全称：{GOLD}25系快速型空调发电车
+STR_FULL_NAME_KD25Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed Air Conditioner Generator Car,{BLACK}全称：{GOLD}25系准高速空调发电车
+STR_FULL_NAME_KD25T,{BLACK}FULLNAME: {GOLD}Type 25 Accelerated Air Conditioner Generator Car,{BLACK}全称：{GOLD}25系提速型空调发电车
+STR_FULL_NAME_RZ125Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed 1st-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25系准高速一等软座客车
+STR_FULL_NAME_RZ225Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed 2nd-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25系准高速二等软座客车
+STR_FULL_NAME_RZT25Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed Top-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25系准高速特等软座客车
+STR_FULL_NAME_RZXL25Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed Soft Seat Passenger Coach & Luggage Car,{BLACK}全称：{GOLD}25系准高速软座行李合造车
+STR_FULL_NAME_CA25Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed Restaurant Car,{BLACK}全称：{GOLD}25系准高速餐车
+STR_FULL_NAME_SRZ125Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed Double Decker 1st-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25系准高速双层一等软座客车
+STR_FULL_NAME_SRZ225Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed Double Decker 2nd-Class Seat Passenger Coach,{BLACK}全称：{GOLD}25系准高速双层二等软座客车
+STR_FULL_NAME_SCA25Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed Double Decker Restaurant Car,{BLACK}全称：{GOLD}25系准高速双层餐车
+STR_FULL_NAME_SRZXL25Z,{BLACK}FULLNAME: {GOLD}Type 25 Semi-Highspeed Double Decker 1st-Class Seat Passenger Coach & Luggage Car,{BLACK}全称：{GOLD}25系准高速双层一等软座行李合造车
+STR_FULL_NAME_YZ25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}Type 25 Unilaminar Hard Seat Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25系单层硬座拖车
+STR_FULL_NAME_YW25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}Type 25 Unilaminar Hard Sleeper Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25系单层硬卧拖车
+STR_FULL_NAME_RW25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}Type 25 Unilaminar Soft Sleeper Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25系单层软卧拖车
+STR_FULL_NAME_SYZ25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}Type 25 Double Decker Hard Seat Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25系双层硬座拖车
+STR_FULL_NAME_SRZ25DT_JINLUN,"{BLACK}FULLNAME: {GOLD}Type 25 Double Decker Hard Seat Passenger Trail Car of ""Jinlun"" DMU",{BLACK}全称：{GOLD}“金轮号”内燃动车组25系双层软座拖车
 STR_FULL_NAME_G11,{BLACK}FULLNAME: G11-type{GOLD} Acid-Alkali {BLACK}Tank Wagon,{BLACK}全称：G11型{GOLD}酸碱{BLACK}罐车
 STR_FULL_NAME_G70B,{BLACK}FULLNAME: G70B-type{GOLD} Light Oil {BLACK}Tank Wagon,{BLACK}全称：G70B型低重心{GOLD}轻油{BLACK}罐车
 STR_FULL_NAME_GF1M,{BLACK}FULLNAME: GF1M-type{GOLD} Fly Ash {BLACK}Tank Wagon,{BLACK}全称：GF1M型{GOLD}粉煤灰{BLACK}罐车
@@ -543,7 +540,7 @@ STR_FULL_NAME_DF11,{BLACK}FULLNAME: {GOLD}Dongfeng 11 Diesel Locomotive,{BLACK}�
 STR_FULL_NAME_DF11PLATEAU,{BLACK}FULLNAME: {GOLD}Dongfeng 11 Plateau Type Diesel Locomotive,{BLACK}全称：{GOLD}东风11高原型内燃机车
 STR_FULL_NAME_DF11G,{BLACK}FULLNAME: {BLUE}Dongfeng 11G {WHITE}Diesel Locomotive,{BLACK}全称：{BLUE}东风11G型{WHITE}内燃机车
 STR_FULL_NAME_DF11Z,{BLACK}FULLNAME: {GOLD}Dongfeng 11Z Diesel Locomotive,{BLACK}全称：{GOLD}东风11Z型内燃机车
-STR_FULL_NAME_NY1,"{BLACK}FULLNAME: {GOLD}Neiye1 ""Weixing"" Diesel Locomotive",{BLACK}全称：{GOLD}内液1“卫星”型内燃机车
+STR_FULL_NAME_NY1,"{BLACK}FULLNAME: {GOLD}Neiye 1 ""Weixing"" Diesel Locomotive",{BLACK}全称：{GOLD}内液1“卫星”型内燃机车
 STR_FULL_NAME_DFH1,{BLACK}FULLNAME: {GOLD}Dongfanghong 1 Diesel Locomotive,{BLACK}全称：{GOLD}东方红1型内燃机车
 STR_FULL_NAME_DFH3,"{BLACK}FULLNAME: {GOLD}Dongfanghong 3 Diesel Locomotive{}{BLACK}Livery Availability: Ordinary {BLUE}Blue {BLACK}Livery, {RED}Red {BLACK}Livery, {BROWN}""Gongqingtuan"" {BLACK}Livery ,Liaodong Peninsula Livery",{BLACK}全称：{GOLD}东方红3型内燃机车{}{BLACK}可选择的涂装：原始蓝色涂装，红色涂装，共青团号涂装，辽东半岛号涂装
 STR_FULL_NAME_DFH7,{BLACK}FULLNAME: {GOLD}Dongfanghong 7 Diesel Locomotive,{BLACK}全称：{GOLD}东方红7型内燃机车
@@ -598,19 +595,7 @@ STR_FULL_NAME_FXD2B1000,{BLACK}FULLNAME: {GOLD}Fuxing/Revival 2B Electric Locomo
 STR_FULL_NAME_HXD3,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3 Electric Locomotive,{BLACK}全称：{GOLD}和谐3型电力机车
 STR_FULL_NAME_HXD3C,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3C Electric Locomotive,{BLACK}全称：{GOLD}和谐3C型电力机车
 STR_FULL_NAME_HXD3D,{BLACK}FULLNAME: {GOLD}Hexie/Harmony 3D Electric Locomotive,{BLACK}全称：{GOLD}和谐3D型电力机车
-STR_FULL_NAME_G11,{BLACK}FULLNAME: G11-type{GOLD} Acid-Alkali {BLACK}Tank Wagon,{BLACK}全称：G11型{GOLD}酸碱{BLACK}罐车
-STR_FULL_NAME_G70B,{BLACK}FULLNAME: G70B-type{GOLD} Light Oil {BLACK}Tank Wagon,{BLACK}全称：G70B型低重心{GOLD}轻油{BLACK}罐车
-STR_FULL_NAME_GF1M,{BLACK}FULLNAME: GF1M-type{GOLD} Fly Ash {BLACK}Tank Wagon,{BLACK}全称：GF1M型{GOLD}粉煤灰{BLACK}罐车
-STR_FULL_NAME_GF70,{BLACK}FULLNAME: GF70-type{GOLD} Alumina Powder {BLACK}Tank Wagon,{BLACK}全称：GF70型{GOLD}氧化铝粉{BLACK}罐车
-STR_FULL_NAME_GH40LK,{BLACK}FULLNAME: GH40LK-type{GOLD} Concentrated Nitric Acid {BLACK}Tank Wagon,{BLACK}全称：GH40LK型{GOLD}浓硝酸{BLACK}罐车
-STR_FULL_NAME_GH65K,{BLACK}FULLNAME: GH65K-type{GOLD} Yellow Phosphorus {BLACK}Tank Wagon,{BLACK}全称：GH65K型{GOLD}黄磷{BLACK}罐车
-STR_FULL_NAME_GHA70,{BLACK}FULLNAME: GHA70-type{GOLD} Alcohol {BLACK}Tank Wagon,{BLACK}全称：GHA70型{GOLD}醇类{BLACK}罐车
-STR_FULL_NAME_GHA70A,{BLACK}FULLNAME: GHA70A-type{GOLD} Para-xylene {BLACK}Tank Wagon,{BLACK}全称：GHA70A型{GOLD}对二甲苯{BLACK}罐车
-STR_FULL_NAME_GS,{BLACK}FULLNAME: GS-type{GOLD} Edible Oil {BLACK}Tank Wagon,{BLACK}全称：GS型{GOLD}食用油{BLACK}罐车
-STR_FULL_NAME_GQ80,{BLACK}FULLNAME: GQ80-type{GOLD} Light Oil {BLACK}Tank Wagon,{BLACK}全称：GQ80型{GOLD}轻油{BLACK}罐车
-STR_FULL_NAME_GN60,{BLACK}FULLNAME: GN60-type{GOLD} Heavy Oil {BLACK}Tank Wagon,{BLACK}全称：GN60型{GOLD}粘油{BLACK}罐车
-STR_FULL_NAME_BGW70,{BLACK}FULLNAME: BGW70-type{GOLD} Edible Oil {BLACK}Tank Wagon,{BLACK}全称：BGW70型{GOLD}食用油{BLACK}罐车
-# Series Nmae,,
+# Series Name,,
 STR_JF1_SERIES,JF1 (Steam Locomotive),解放1型 (蒸汽机车)
 STR_DF4_SERIES,DF4 Series (Diesel Locomotive),DF4系列 (内燃机车)
 STR_DF4D_SERIES,DF4D Series (Diesel Locomotive),DF4D系列 (内燃机车)
@@ -661,7 +646,7 @@ STR_S25B_SERIES,Type S25B Series Coaches,S25B型双层客车
 STR_25C_SERIES,Type 25C Series Coaches,25C型客车
 STR_25G_SERIES,Type 25G Series Coaches,25G型客车
 STR_25Z_SERIES,Type 25Z Series Coaches,25Z型客车
-STR_S25Z_SERIES,Type S25Z Series Coaches ,S25Z型双层客车
+STR_S25Z_SERIES,Type S25Z Series Coaches,S25Z型双层客车
 STR_25K_SERIES,Type 25K Series Coaches,25K型客车
 STR_S25K_SERIES,Type S25K Series Coaches,S25K型双层客车
 STR_25T_SERIES,Type 25T Series Coaches,25T型客车
@@ -850,7 +835,7 @@ STR_CR300BF_NICKNAME,"{BLACK}Nickname: {LTBLUE}""Blue Antidote"" {GOLD}(Official
 STR_ALIASNAME_JF1,"{BLACK}Alias Name: {GOLD}Mikai, MK1",{BLACK}曾用名：{GOLD}ミカイ，ㄇㄎ1型
 STR_ALIASNAME_SL6,"{BLACK}Alias Name: {GOLD}Pashiku, PX6",{BLACK}曾用名：{GOLD}パシク，ㄆㄒ6型
 STR_ALIASNAME_KD7,"{BLACK}Alias Name: {GOLD}SL7",{BLACK}曾用名：{GOLD}ㄙㄌ7型
-STR_ALIASNAME_QJ,"{BLACK}Alias Name: {GOLD}Heping(HP), Fandi(FD)",{BLACK}曾用名：{GOLD}和平型（HP），反帝型（FD）
+STR_ALIASNAME_QJ,"{BLACK}Alias Name: {GOLD}Heping (HP), Fandi (FD)",{BLACK}曾用名：{GOLD}和平型（HP），反帝型（FD）
 STR_ALIASNAME_DF,"{BLACK}Alias Name: {GOLD}Great Loong, ND",{BLACK}曾用名：{GOLD}巨龙，ND
 STR_ALIASNAME_SS1,{BLACK}Alias Name: {GOLD}6Y1,{BLACK}曾用名：{GOLD}6Y1
 STR_ALIASNAME_HXD3,{BLACK}Alias Name: {GOLD}DJ3,{BLACK}曾用名：{GOLD}DJ3

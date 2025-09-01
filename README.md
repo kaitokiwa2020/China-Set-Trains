@@ -101,9 +101,9 @@ Contributors (in alphabetical order):
 - DF43110
 - EMB190
 - FJZer0ich
+- guangming
 - Haiyan
 - huanfeng
-- guangming
 - jackgqj
 - John Franklin
 - Mikhail
@@ -142,7 +142,7 @@ OpenTTD Developers; and Chris Sawyer.
 ```text
 China Set: Trains
 
-Copyright (C) 2024 China Set Team
+Copyright (C) 2023-2025 China Set Team
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

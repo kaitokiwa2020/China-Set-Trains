@@ -66,7 +66,7 @@ item (FEAT_TRAINS, _8k) {
         cost_factor:                    83;
         running_cost_base:              RUNNING_COST_ELECTRIC;
         running_cost_factor:            72;
-        reliability_decay:              12;
+        reliability_decay:              8;
     }
     graphics {
         // Menu
